@@ -4,12 +4,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+<!-- SEO TAG -->
 <meta name="keywords" content="{{ .Params.meta.keyword }}"/>
 <meta name="description" content="{{ .Params.meta.description }}"/>
 
-
+{{ template "_internal/schema.html" . }}
+{{ template "_internal/google_news.html" . }}
+{{ template "_internal/opengraph.html" . }}
+<!-- /SEO TAG -->
 
 <link rel="icon" href="/img/ardianta.jpg" />
 
 <link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/prism.css" />
 <link rel="stylesheet" href="/css/style.css" />
+
+
+{{ if .Site.Params.isProduction }}
+<link href='https://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'> 
+{{ end }}
