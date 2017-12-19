@@ -1,0 +1,122 @@
+
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+a:hover {text-decoration: none}
+
+.post-content {
+    font-family: Merriweather, Georgia, Sans-serif;
+    /* font-size: 15px; */
+}
+
+.post-content h2, 
+.post-content h3, 
+.post-content h4, 
+.post-content h5,
+.post-content h6 {
+    font-family: Roboto, Sans;
+    margin: 1em 0;
+}  
+
+.post-content p {
+    margin-bottom: 1.5em;
+    letter-spacing: 0.01rem;
+}
+
+.post-content img, .post-content iframe {
+    max-width: 100%;
+}
+
+.post-content pre {
+    margin-bottom: 1.5em;
+    background: #f5f2f0;
+    padding: 1em;
+}
+
+/* List */
+.post-content ul, .post-content ol, .post-content dl {
+    margin-bottom: 1.5rem;
+}
+
+.post-content ul li, .post-content ol li{
+    margin-bottom: 0.5em;
+}
+
+/*--- Blockqute -----*/
+blockquote{
+  display:block;
+  background: whitesmoke;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+
+  /*Font*/
+  /*font-family: Georgia, serif;*/
+  font-size: 16px;
+  line-height: 1.2;
+  color: #666;
+
+
+  /*Borders - (Optional)*/
+  border-left: 15px solid #008080;
+  border-right: 2px solid #008080;
+
+  /*Box Shadow - (Optional)*/
+  /*-moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;*/
+}
+
+blockquote::before{
+  content: "\201C"; /*Unicode for Left Double Quote*/
+
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #999;
+
+  /*Positioning*/
+  position: absolute;
+  left: 10px;
+  top:5px;
+}
+
+blockquote::after{
+  /*Reset to make sure*/
+  content: "";
+}
+
+blockquote a{
+  text-decoration: none;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #c76c0c;
+}
+
+blockquote em{
+  font-style: italic;
+}
+/*--- End Blockqute -----*/
+
+@media only screen and (max-width: 570px) { 
+    .post-outer { 
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    .post-outer .card {
+        border-left: none;
+        border-right: none;
+        border-radius: 0;
+    }
+}

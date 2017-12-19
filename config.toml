@@ -1,0 +1,17 @@
+baseurl = "https://ardianta.github.io/"
+title = "Ardianta"
+theme = "ardianta"
+
+googleAnalytics = "UA-54154424-1"
+disqusShortname = "ardianta"
+
+[permalinks]
+  post = "/blog/:slug/"
+  page = "/:slug/"
+
+[params]
+  # Site Author
+  author = "Dian"
+
+  # Description/subtitle for homepage
+  description = "Hello, saya Dian. Blog ini belum jadi. Sabar ya..."

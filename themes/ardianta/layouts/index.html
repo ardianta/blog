@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+<body class="bg-light">
+
+     {{ partial "header.html" . }}
+
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-md-8 mt-5">
+
+                <div class="card rounded-0 post-outer">
+                    <div class="card-body p-md-5">
+
+                        {{ range (.Data.Pages.GroupByDate "2006") }}
+                        
+                        <div class="post-content">
+
+                        <table>
+                            <tr>
+                                <td colspan="3">
+                                    <h4>{{ .Key }}</h4>
+                                </td>
+                            </tr>
+                            {{ range where .Pages "Section" "post"}}
+                            <tr>
+                                <td class="p-1">
+                                    <time class="text-secondary small" title="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                                </td>
+
+                                <td class="p-1">
+                                    <a class="text-success" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                                </td>
+                            </tr>
+                            {{ end }}
+                        </table>
+                        {{ end }}
+
+                        </div>
+
+                    </div>
+                </div>
+
+                {{ partial "footer.html" . }}
+            </div>
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+
+
+</body>
+
+</html>
