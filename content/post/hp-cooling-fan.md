@@ -5,6 +5,7 @@ date: 2015-06-06T23:44:45+08:00
 draft: false
 
 tags:
+    - laptop
 
 meta:
     image: ""
@@ -43,3 +44,5 @@ Ternyta kipasnya tidak mau bergerak kerena banyak debu.
 Lalu saya bersihkan sampai kipas tersebut bisa bergerak dengan lancar.
 
 Akhirnya laptop bisa hidup kembali. 😊 
+
+Syukurlah...
