@@ -4,15 +4,15 @@
 name = "Ardianta"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
-description = ""
+description = "Simple Bootstrap 4 Template for Personal Blog"
 homepage = "http://example.com/"
-tags = []
-features = []
+tags = ["blog", "personal", "portfolio"]
+features = ["archive", "disqus"]
 min_version = "0.26"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "ardianta"
+  homepage = "https://ardianta.github.io"
 
 # If porting an existing theme
 [original]
