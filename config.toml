@@ -1,6 +1,6 @@
 baseurl = "https://ardianta.github.io/"
 title = "Ardianta"
-theme = "ardianta"
+theme = "pargo"
 
 googleAnalytics = "UA-54154424-1"
 disqusShortname = "ardianta"
