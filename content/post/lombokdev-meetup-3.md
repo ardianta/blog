@@ -2,7 +2,7 @@
 title: "Gagal Ikut Lombokdev Meet-up #3"
 slug: lombokdev-meetup-3
 date: 2017-12-17T17:26:36+08:00
-draft: false
+draft: true
 
 meta:
     image: ""
