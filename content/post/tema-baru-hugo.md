@@ -4,10 +4,14 @@ slug: tema-baru-hugo
 date: 2017-12-18T15:49:46+08:00
 draft: false
 
+tags:
+    - blog
+    - hugo
+
 meta:
-    image: ""
-    keyword: ""
-    description: ""
+    image: "img/tema-baru/index.png"
+    keyword: "Hugo, template"
+    description: "Menggunakan tema orang lain, rasanya saya kurang bebas. Karena banyak yang tidak dipahami di stuktur tema mereka. Akhirnya saya membuat tema sendiri untuk blog ini."
 ---
 
 Menggunakan tema orang lain, rasanya saya kurang bebas.
@@ -162,7 +166,7 @@ file: `themes/ardianta/layouts/_default/single.html`
 
 Penampakannya:
 
-![Halaman indeks](/img/tema-baru/single.png)
+![Halaman Artikel](/img/tema-baru/single.png)
 
 Untuk kode-kode yang lain seperti partial, dapat dilihat di repository ini: https://github.com/ardianta/blog
 

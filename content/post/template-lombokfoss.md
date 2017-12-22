@@ -9,7 +9,7 @@ tags:
     - Hugo
 
 meta:
-    image: "https://ardianta.github.io/img/lombokfoss/single.png"
+    image: "/img/lombokfoss/single.png"
     keyword: "Lombokfoss, Hugo, Template, Linux"
     description: "Setelah membuat template untuk blog ini.
 Sekarang giliran blog Lombokfoss yang saya buatkan templatenya."
@@ -19,7 +19,7 @@ Setelah membuat template untuk blog ini.
 Sekarang giliran blog Lombokfoss yang saya buatkan templatenya.
 
 Pengerjaannya sangat cepat, cuma 1 hari. Karena
-saya _copas_ dari [template blog ini](https://github.com/ardianta/blog/tree/master/themes/ardianta). Lalu tinggal 
+saya _copas_ dari [template blog ini](https://github.com/ardianta/blog/tree/master/themes/pargo). Lalu tinggal 
 dimodif dan diatur tata letaknya.
 
 Maka jadilah seperti ini.
@@ -38,8 +38,9 @@ Template ini masih belum selesai.
 
 ## Pekerjaan Selanjutnya
 
-- [ ] Perbaiki tampilan untuk mobile 
-- [ ] Pembuatan Disqus
+- [x] Perbaiki tampilan untuk mobile 
+- [x] ~~Pasang Komentar Faceook~~ _(diganti pakai disqus)_
+- [x] Pasang Komentar Disqus
 - [ ] Menambahkan Google Analytic
 - [ ] Menambahkan Open Graph
 - [ ] Menambahkan Share Button

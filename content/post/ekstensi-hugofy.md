@@ -5,9 +5,9 @@ date: 2017-12-19T23:20:33+08:00
 draft: false
 
 meta:
-    image: ""
-    keyword: ""
-    description: ""
+    image: "img/hugofy/install-hugofy.png"
+    keyword: "hugo, vscode"
+    description: "Penasaran dengan ekstensi ini. Lansung saja saya coba install."
 ---
 
 Penasaran dengan ekstensi ini. Lansung saja saya coba install.
