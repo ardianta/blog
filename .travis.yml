@@ -7,6 +7,6 @@ install:
 
 script:
   - git submodule update --init --recursive
-  - hugo -v
+  - hugo version
   - chmod +x deploy-ci.sh
   - ./deploy-ci.sh
