@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 set -e
 
@@ -22,7 +22,7 @@ function get_current_site {
 }
 
 function build_site { 
-	echo "building site"
+	echo "building site..."
 	hugo --config config.production.toml
 }
 
