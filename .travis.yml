@@ -6,7 +6,6 @@ install:
   - rm -rf public || exit 0
 
 script:
-  - git submodule update --init --recursive
   - hugo version
   - chmod +x deploy-ci.sh
   - ./deploy-ci.sh
