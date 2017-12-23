@@ -1,9 +1,9 @@
 language: node_js
 node_js:
-  - "node"
   - "8"
 
 cache: node_modules
 
 script:
+  - "chmod +x build.sh"
   - "./build.sh"
