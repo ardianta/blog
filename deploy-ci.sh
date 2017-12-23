@@ -44,7 +44,7 @@ function deploy {
     git config --global user.email ardianta_pargo@yahoo.co.id
 	git add -A
 	git status
-	git commit -m "Lastest site built on successful travis build $TRAVIS_BUILD_NUMBER auto-pushed to github"
+	git commit -m "Travis build $TRAVIS_BUILD_NUMBER auto-pushed to github"
 	git push $DEPLOY_REPO master:master
 }
 
