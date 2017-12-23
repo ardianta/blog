@@ -7,11 +7,14 @@
 <!-- SEO TAG -->
 <meta name="keywords" content="{{ .Params.meta.keyword }}"/>
 <meta name="description" content="{{ .Params.meta.description }}"/>
-<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.meta.image }}" />
 
 {{ template "_internal/schema.html" . }}
 {{ template "_internal/google_news.html" . }}
 {{ template "_internal/opengraph.html" . }}
+<meta content='summary_large_image' name='twitter:card' />
+<meta content='@ardiantapargo' name='twitter:site' />
+<meta content='@ardiantapargo' name='twitter:creator' />
+<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.meta.image }}" />
 <!-- /SEO TAG -->
 
 <link rel="icon" href="/img/ardianta.jpg" />
@@ -23,4 +26,5 @@
 
 {{ if .Site.Params.isProduction }}
 <link href='https://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'> 
+{{ template "_internal/google_analytics.html" . }}
 {{ end }}
