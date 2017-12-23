@@ -27,7 +27,7 @@ dibantu sama Travis CI. yay! 😄
 Travis CI ini bertugas untuk melakuakn build dan 
 deploy.
 
-Adapun skript yang saya gunakan adalah sebagai berikut:
+Adapun skrip yang saya gunakan adalah sebagai berikut:
 
 File `deploy-ci.sh`
 
@@ -92,7 +92,7 @@ agar skrip di atas bisa melakukan _push_ ke repositori.
 Token ini bisa kita dapatkan di __Akun->Settings->Developer settings->Personal access tokens__
 (https://github.com/settings/tokens).
 
-Buat baru di sana, lalu tambahkan di dashborad Travis (https://travis-ci.org/).
+Token yang sudah dibuat, bisa ditambahkan di pengaturan Travis (https://travis-ci.org/).
 
 Sementara untuk konfigurasi CI Travis-nya:
 
