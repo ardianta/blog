@@ -121,3 +121,17 @@ script:
 Dengan begini saya tinggal melakukan push saja ke repositori ini:
 https://github.com/ardianta/blog lalu Travis CI akan melakukan build
 dan melakukan push [ke sini](https://github.com/ardianta/ardianta.github.io).
+
+Ini screenshot saat si Travis CI melakukan Build.
+
+![Travis CI Build Hugo to Github](/img/travis/travis-ci.png)
+
+Kadang kalau tidak ada yang di-push, build akan gagal. Tapi itu tidak masalah,
+karena belum ada update terbaru yang harus di-push.
+
+![Travis CI Build Hugo to Github](/img/travis/build.png)
+
+Sekarang bisa sedikit hemat kuota, karena tidak nge-push ke dua 
+repositori sekaligus. 😄
+
+Terima kasih Travis CI.
