@@ -41,8 +41,8 @@ Template ini masih belum selesai.
 - [x] Perbaiki tampilan untuk mobile 
 - [x] ~~Pasang Komentar Faceook~~ _(diganti pakai disqus)_
 - [x] Pasang Komentar Disqus
-- [ ] Menambahkan Google Analytic
-- [ ] Menambahkan Open Graph
+- [x] Menambahkan Google Analytic _(pakai Cloudflare)_
+- [x] Menambahkan Open Graph
 - [ ] Menambahkan Share Button
 - [ ] Mendaftarkan ke Google Webmaster
 - [ ] Perbaiki Kualitas Konten
