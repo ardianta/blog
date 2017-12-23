@@ -129,7 +129,7 @@ Ini screenshot saat si Travis CI melakukan Build.
 Kadang kalau tidak ada yang di-push, build akan gagal. Tapi itu tidak masalah,
 karena belum ada update terbaru yang harus di-push.
 
-![Travis CI Build Hugo to Github](/img/travis/build.png)
+![History Build Travis](/img/travis/build.png)
 
 Sekarang bisa sedikit hemat kuota, karena tidak nge-push ke dua 
 repositori sekaligus. 😄
