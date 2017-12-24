@@ -46,6 +46,6 @@ Template ini masih belum selesai.
 - [ ] Menambahkan Share Button
 - [ ] Mendaftarkan ke Google Webmaster
 - [ ] Perbaiki Kualitas Konten
-- [ ] Pembuatan halaman 404.html
-- [ ] Template untuk halaman tags
+- [x] Pembuatan halaman 404.html _(404 dari Netlify)_
+- [x] Template untuk halaman tags
 - [ ] Optimasi dan perbaikan
