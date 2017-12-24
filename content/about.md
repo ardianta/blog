@@ -22,8 +22,6 @@ salah satu perguruan tinggi swasta di kota Mataram.
 Pernah bersekolah di [SMK Negeri 2 Kuripan](http://www.smkn2kuripan.sch.id/) dengan jurusan TKJ
 (Teknik Komputer & Jaringan).
 
-## Kontak:
+Kontak yang bisa dihubungi:
 
 - Email: <a href="mailto:dian@petanikode.com">dian@petanikode.com</a>
-- Twitter: [@ardiantapargo](https://twitter.com/ardiantapargo)
-- Github: [@ardianta](https://github.com/ardianta)
