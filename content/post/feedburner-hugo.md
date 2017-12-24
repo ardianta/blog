@@ -19,8 +19,7 @@ Kenapa pakai Feedburner?
 Sebenarnya Hugo sudah mendukung RSS Feed, bisa dilihat di https://ardianta.github.io/post/index.xml.
 
 Akan tetapi, kalau kita ganti domain, orang-orang yang sudah berlangganan RSS Feed 
-dari blog kita akan tetap menggunakan URL tersebut dan mereka tidak akan dapat 
-update lagi.
+dari blog kita tidak akan dapat update lagi. Karena URL-nya sudah berubah.
 
 Nah, berbeda dengan menggunakan Feedburner.
 
