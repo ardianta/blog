@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+<body class="bg-light">
+
+    {{ partial "header.html" . }}
+
+    <div class="container mt-5 mb-5">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-md-8">
+                <div class="card rounded-0 post-outer">
+                    <div class="card-body  p-md-5">
+                        <div class="post-content">
+                            <div class="post-header mb-3">
+                                <h2 class="post-title">{{ .Title }}</h2>
+                                <hr>
+                                <time class="text-secondary small" title="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                            </div>
+                            <div class="post-body">
+                                {{ .Content }}
+                            </div>
+                            <div class="post-footer mt-5 py-4">
+                                
+                                {{ if eq .Type "post" }} {{ partial "disqus.html" . }} {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                 {{ partial "footer.html" . }}
+            </div>
+        </div>
+    </div>
+
+    {{ partial "js-init.html" . }}
+
+</body>
+
+</html>
