@@ -4,6 +4,8 @@ slug: about
 date: 2017-12-17T19:50:57+08:00
 draft: false
 
+type: page
+
 meta:
     image: ""
     keyword: ""
