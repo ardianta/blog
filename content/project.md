@@ -24,6 +24,8 @@ Ada yang bersifat _side project_ dan ada juga yang serius.
 Petanikode adalah sebuah blog dengan _niche_ pemrograman untuk 
 membantu siapa saja yang ingin belajar pemrograman menggunakan Linux.
 
+![Petanikode](/img/project/petanikode.png)
+
 Kebanyakan kontennya menggunakan
 Linux. Namun, tidak menutup kemungkinan ada beberapa yang menggunakan Windows.
 
