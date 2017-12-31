@@ -13,7 +13,8 @@ meta:
 ---
 
 Halaman ini berisi project yang pernah saya kerjakan dan yang sedang dikerjakan.
-Ada yang bersifat _side project_ dan ada juga yang serius.
+Ada yang bersifat _side project_ dan ada juga yang serius. Untuk project
+yang lainnya bisa dilihat di [Github](https://github.com/ardianta).
 
 ## Petanikode
 
