@@ -47,7 +47,7 @@ github_pages:
   - master
 ```
 
-Saya menggunakan image docker `andthensome/alpine-hugo-git-bash`,
+Saya menggunakan image docker [andthensome/alpine-hugo-git-bash](https://hub.docker.com/r/andthensome/alpine-hugo-git-bash/tags/),
 karena membutuhkan perintah `hugo` dan `git` saat melakukan build.
 Selain itu, image ini ukurannya relatif kecil yaitu 44MB.
 
