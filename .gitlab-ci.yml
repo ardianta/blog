@@ -1,0 +1,21 @@
+image: andthensome/alpine-hugo-git-bash:0.31.2
+
+before_script:
+  - hugo version
+
+pages:
+  script:
+  - rm -rf public
+  - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git
+  - hugo --config config.production.toml
+  - cd public
+  - git config user.email "ardianta_pargo@yahoo.co.id"
+  - git config --global user.name "ardianta"
+  - git add -A
+  - git diff-index --quiet HEAD || git commit -m "$CI_SERVER_NAME $CI_PIPELINE_ID"
+  - git push
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
