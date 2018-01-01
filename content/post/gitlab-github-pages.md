@@ -7,7 +7,10 @@ draft: false
 type: post
 
 tags:
-    - tag
+    - Hugo
+    - Github
+    - Gitlab
+    - CI
 
 meta:
     image: "/img/gitlab-github/token-github.png"
