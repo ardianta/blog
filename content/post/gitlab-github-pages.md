@@ -59,7 +59,7 @@ Variabel env untuk `$GITHUB_ACCESS_TOKEN` bisa kita isi di __Settings->CI/DI->Se
 
 ![Secret Variabel Github](/img/gitlab-github/token-github.png)
 
-Nilai dari variabel tersebut adalah personal token dari Github, yang sudah dibuat di
+Nilai dari variabel ini adalah personal token dari Github, yang sudah dibuat di
 [Settings->Tokens](https://github.com/settings/tokens).
 
 Percobaan build...
