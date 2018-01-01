@@ -35,7 +35,6 @@ github_pages:
   - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
   - hugo --config config.production.toml
   - cd public
-  - rm -rf ilmu-2017
   - git config user.email "<your git email>"
   - git config --global user.name "<your git name>"
   - git add -A
