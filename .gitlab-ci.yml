@@ -2,16 +2,18 @@ image: andthensome/alpine-hugo-git-bash:0.31.2
 
 before_script:
   - hugo version
-  - git config user.email "ardianta_pargo@yahoo.co.id"
-  - git config --global user.name "ardianta"
 
 github_pages:
   script:
+  - git config user.email "ardianta_pargo@yahoo.co.id"
+  - git config --global user.name "ardianta"
   - git remote add github https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/blog.git
   - git push github master
-  - rm -rf public
   - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
+  - mv public/.git /tmp/.git
+  - rm -rf public/*
   - hugo --config config.production.toml
+  - mv /tmp/.git public/.git
   - cd public
   - git add -A
   - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
