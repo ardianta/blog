@@ -6,7 +6,6 @@ before_script:
 
 stages:
   - backup
-  - build
   - deploy
 
 
@@ -20,17 +19,7 @@ mirroring:
     - git config --global user.name "ardianta"
   script:
     - git remote add github https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/blog.git
-    - git push github master
-
-# build the site
-build_site:
-  stage: build
-  script:
-    - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
-    - mv public/.git /tmp/.git # backup .git
-    - rm -rf public/* # clean old build
-    - hugo --config config.production.toml # build site
-    - mv /tmp/.git public/.git # restore .git
+    - git push github master    
 
 # Deploy to github pages  
 github_pages:
@@ -41,6 +30,11 @@ github_pages:
     - git config user.email "ardianta_pargo@yahoo.co.id"
     - git config --global user.name "ardianta"
   script:
+    - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
+    - mv public/.git /tmp/.git # backup .git
+    - rm -rf public/* # clean old build
+    - hugo --config config.production.toml # build site
+    - mv /tmp/.git public/.git # restore .git
     - cd public
     - git add -A
     - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
