@@ -9,8 +9,6 @@ type: post
 tags:
     - tag
 
-meta:
-    image: ""
-    keyword: ""
-    description: ""
+image: ""
+description: ""
 ---

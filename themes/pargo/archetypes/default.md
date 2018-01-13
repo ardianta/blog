@@ -6,8 +6,6 @@ draft: true
 
 type: page
 
-meta:
-    image: ""
-    keyword: ""
-    description: ""
+image: ""
+description: ""
 ---

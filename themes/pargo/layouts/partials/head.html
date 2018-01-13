@@ -5,16 +5,12 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
 <!-- SEO TAG -->
-<meta name="keywords" content="{{ .Params.meta.keyword }}"/>
-<meta name="description" content="{{ .Params.meta.description }}"/>
-
 {{ template "_internal/schema.html" . }}
 {{ template "_internal/google_news.html" . }}
 {{ template "_internal/opengraph.html" . }}
 <meta content='summary_large_image' name='twitter:card' />
 <meta content='@ardiantapargo' name='twitter:site' />
 <meta content='@ardiantapargo' name='twitter:creator' />
-<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.meta.image }}" />
 <!-- /SEO TAG -->
 
 <link rel="icon" href="/img/ardianta.jpg" />
