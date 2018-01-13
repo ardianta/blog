@@ -38,4 +38,5 @@ github_pages:
     - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
     - git push
   after_script:
+    - cd ..
     - rm -rf public
