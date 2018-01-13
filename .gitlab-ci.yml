@@ -8,7 +8,7 @@ before_script:
 github_pages:
   script:
   - git remote add github https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/blog.git
-  - git push github origin master
+  - git push github master
   - rm -rf public
   - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
   - hugo --config config.production.toml
