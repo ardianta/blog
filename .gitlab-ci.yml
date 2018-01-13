@@ -15,6 +15,8 @@ github_pages:
   - hugo --config config.production.toml
   - mv /tmp/.git public/.git
   - cd public
+  - git config user.email "ardianta_pargo@yahoo.co.id"
+  - git config --global user.name "ardianta"
   - git add -A
   - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
   - git push
