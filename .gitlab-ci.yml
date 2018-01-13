@@ -1,14 +1,18 @@
 image: andthensome/alpine-hugo-git-bash:0.31.2
 
-stages:
-  - mirroring
-  - github_pages
-
 before_script:
   - hugo version
+  - git --version
+
+stages:
+  - backup
+  - build
+  - deploy
+
 
 # Mirror Gitlab repository to Github
 mirroring:
+  stage: backup
   only:
     - master
   before_script:
@@ -18,20 +22,28 @@ mirroring:
     - git remote add github https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/blog.git
     - git push github master
 
+# build the site
+build_site:
+  stage: build
+  script:
+    - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
+    - mv public/.git /tmp/.git # backup .git
+    - rm -rf public/* # clean old build
+    - hugo --config config.production.toml # build site
+    - mv /tmp/.git public/.git # restore .git
+
 # Deploy to github pages  
 github_pages:
+  stage: deploy
   only:
     - master
   before_script:
     - git config user.email "ardianta_pargo@yahoo.co.id"
     - git config --global user.name "ardianta"
   script:
-    - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
-    - mv public/.git /tmp/.git # backup .git
-    - rm -rf public/* # clean old build
-    - hugo --config config.production.toml #build site
-    - mv /tmp/.git public/.git # restore .git
     - cd public
     - git add -A
     - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
     - git push
+  after_script:
+    - rm -rf public
