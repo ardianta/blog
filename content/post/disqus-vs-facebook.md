@@ -6,10 +6,9 @@ draft: false
 
 tags:
 
-meta:
-    image: "/img/disqus-fb/komentar-disqus.png"
-    keyword: "disqus, facebook, komentar, blog, hugo"
-    description: "Lebih pilihmana: disqus atau facebook?"
+image: "/img/disqus-fb/komentar-disqus.png"
+keyword: "disqus, facebook, komentar, blog, hugo"
+description: "Lebih pilihmana: disqus atau facebook?"
 ---
 
 Dalam mengembangkan [template Hugo untuk Lombokfoss](/blog/template-lombokfoss/), saya sedikit 

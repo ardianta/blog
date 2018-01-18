@@ -4,10 +4,9 @@ slug: lombokdev-meetup-3
 date: 2017-12-17T17:26:36+08:00
 draft: true
 
-meta:
-    image: ""
-    keyword: "lombokdev, meetup, lombok developer"
-    description: "Teman-teman dari Lombokdev Meetup akan mengadakan meet-up ke-3 hari ini. Sayangnya saya tidak bsia hadir, karena ketuduran."
+image: ""
+keyword: "lombokdev, meetup, lombok developer"
+description: "Teman-teman dari Lombokdev Meetup akan mengadakan meet-up ke-3 hari ini. Sayangnya saya tidak bsia hadir, karena ketuduran."
 ---
 
 Teman-teman dari [Lombokdev](https://lombokdev.github.io) akan mengadakan [meet-up ke-3](https://lombokdev.github.io/Meetup003/) hari ini. 

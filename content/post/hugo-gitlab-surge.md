@@ -12,10 +12,9 @@ tags:
     - Gitlab
     - Surge
 
-meta:
-    image: "/img/hugo/ci-gitlab.png"
-    keyword: ""
-    description: "Cara deploy hugo dari Gitlab CI ke Surge"
+image: "/img/hugo/ci-gitlab.png"
+keyword: ""
+description: "Cara deploy hugo dari Gitlab CI ke Surge"
 ---
 
 Saya punya project pembuatan template untuk web company profile.

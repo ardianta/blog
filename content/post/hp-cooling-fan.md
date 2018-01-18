@@ -7,10 +7,9 @@ draft: false
 tags:
     - laptop
 
-meta:
-    image: ""
-    keyword: ""
-    description: ""
+image: ""
+keyword: ""
+description: ""
 ---
 
 _(ini adalah tulisan impor dari [blog lama](http://imtkj.blogspot.co.id/2015/06/memperbaiki-laptop-hp-cooling-fan-902.html))_

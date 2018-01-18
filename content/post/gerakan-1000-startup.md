@@ -6,10 +6,9 @@ draft: true
 
 tags:
 
-meta:
-    image: ""
-    keyword: ""
-    description: ""
+image: ""
+keyword: ""
+description: ""
 ---
 
 Saya mengetahui acara ini karena ada yang _sharing_ di group kampus.

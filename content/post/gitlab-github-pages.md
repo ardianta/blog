@@ -12,10 +12,9 @@ tags:
     - Gitlab
     - CI
 
-meta:
-    image: "/img/gitlab-github/token-github.png"
-    keyword: "Hugo, Gitlab, Github, Deploy"
-    description: "Bagaimana cara deploy Hugo dari Gitlab ke Github Pages?"
+image: "/img/gitlab-github/token-github.png"
+keyword: "Hugo, Gitlab, Github, Deploy"
+description: "Bagaimana cara deploy Hugo dari Gitlab ke Github Pages?"
 ---
 
 Karena di [Travis CI](/blog/hugo-travis-ci/) lama menunggu Queue build-nya, saya jadi ingin mengganti 

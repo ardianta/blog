@@ -6,10 +6,8 @@ draft: false
 
 type: page
 
-meta:
-    image: ""
-    keyword: ""
-    description: ""
+image: ""
+description: "Project yang pernah saya kerjakan dan yang sedang dikerjakan. Ada yang bersifat _side project_ dan ada juga yang serius."
 ---
 
 Halaman ini berisi project yang pernah saya kerjakan dan yang sedang dikerjakan.

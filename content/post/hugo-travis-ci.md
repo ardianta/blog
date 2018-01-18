@@ -10,10 +10,9 @@ tags:
     - Travis
     - CI
 
-meta:
-    image: "/img/travis/travis-ci.png"
-    keyword: "Hugo, Blog, Travis CI, CI, Github, Github Pages"
-    description: "Workflow ngeblog saya berubah. Sekarang sudah dibantu Travis CI untuk build dan deploy"
+image: "/img/travis/travis-ci.png"
+keyword: "Hugo, Blog, Travis CI, CI, Github, Github Pages"
+description: "Workflow ngeblog saya berubah. Sekarang sudah dibantu Travis CI untuk build dan deploy"
 ---
 
 Blog ini di-hosting di Github pada repositori ini: https://github.com/ardianta/ardianta.github.io.

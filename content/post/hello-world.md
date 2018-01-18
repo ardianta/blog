@@ -1,9 +1,18 @@
-+++
-date = "2017-01-24T14:35:02+08:00"
-title = "Hello World! Tulisan Pertama di Blog Hugo"
-slug = "hello-world"
-draft = false
-+++
+---
+title: "Hello World! Tulisan Pertama di Blog Hugo"
+slug: hello-world
+date: 2017-01-24T14:35:02+08:00
+draft: false
+
+type: post
+
+tags:
+    - Blog
+    - Hugo
+
+image: "/img/2018/goal-2018.png"
+description: "Tulisan pertama saya di blog baru"
+---
 
 Hello World!
 

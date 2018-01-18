@@ -8,10 +8,9 @@ tags:
     - Blog
     - Hugo
 
-meta:
-    image: "/img/lombokfoss/single.png"
-    keyword: "Lombokfoss, Hugo, Template, Linux"
-    description: "Setelah membuat template untuk blog ini.
+image: "/img/lombokfoss/single.png"
+keyword: "Lombokfoss, Hugo, Template, Linux"
+description: "Setelah membuat template untuk blog ini.
 Sekarang giliran blog Lombokfoss yang saya buatkan templatenya."
 ---
 

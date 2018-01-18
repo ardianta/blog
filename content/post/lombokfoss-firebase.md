@@ -7,10 +7,9 @@ draft: false
 tags:
     - blog
 
-meta:
-    image: "img/lombokfoss/ssl.png"
-    keyword: "Lombokfoss, Hugo, Firebase"
-    description: "Rencananya saya mau pakai Hugo dan hostingnya di Firebase, lalu untuk DNS saya masih percayakan pada CloudFlare."
+image: "img/lombokfoss/ssl.png"
+keyword: "Lombokfoss, Hugo, Firebase"
+description: "Rencananya saya mau pakai Hugo dan hostingnya di Firebase, lalu untuk DNS saya masih percayakan pada CloudFlare."
 ---
 
 Minggu ini saya melakukan migrasi blog saya [Lombokfoss](https://www.lombokfoss.com), karena nggak pernah diurus.

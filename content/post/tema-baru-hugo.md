@@ -8,10 +8,9 @@ tags:
     - blog
     - hugo
 
-meta:
-    image: "img/tema-baru/index.png"
-    keyword: "Hugo, template"
-    description: "Menggunakan tema orang lain, rasanya saya kurang bebas. Karena banyak yang tidak dipahami di stuktur tema mereka. Akhirnya saya membuat tema sendiri untuk blog ini."
+image: "img/tema-baru/index.png"
+keyword: "Hugo, template"
+description: "Menggunakan tema orang lain, rasanya saya kurang bebas. Karena banyak yang tidak dipahami di stuktur tema mereka. Akhirnya saya membuat tema sendiri untuk blog ini."
 ---
 
 Menggunakan tema orang lain, rasanya saya kurang bebas.

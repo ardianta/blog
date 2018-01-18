@@ -6,10 +6,9 @@ draft: false
 
 type: page
 
-meta:
-    image: ""
-    keyword: ""
-    description: ""
+image: ""
+keyword: ""
+description: ""
 ---
 
 Hi, nama saya __Ahmad Muhar Dian Lasmita__, disingkat __Ardianta__.

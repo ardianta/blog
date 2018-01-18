@@ -11,10 +11,9 @@ tags:
     - Linux
     - Mint
 
-meta:
-    image: "/img/docker/versi-docker.png"
-    keyword: "Docker, Linux Mint"
-    description: "Cara Install Docker di Linux Mint 18"
+image: "/img/docker/versi-docker.png"
+keyword: "Docker, Linux Mint"
+description: "Cara Install Docker di Linux Mint 18"
 ---
 
 

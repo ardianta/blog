@@ -10,10 +10,9 @@ tags:
     - Reactjs
     - Javascript
 
-meta:
-    image: "/img/react/reactjs-vscode.png"
-    keyword: "Javascript, Lombokjs, Reactjs"
-    description: "Langkah awal belajar React, ya pertama harus kenalan dulu dengan React-nya. Bagaimana sejarahnya? Kenapa harus menggunakan React? Bagaimana konsep React?"
+image: "/img/react/reactjs-vscode.png"
+keyword: "Javascript, Lombokjs, Reactjs"
+description: "Langkah awal belajar React, ya pertama harus kenalan dulu dengan React-nya. Bagaimana sejarahnya? Kenapa harus menggunakan React? Bagaimana konsep React?"
 ---
 
 Saya telat ikut kulgram Reactjs di [@lombokjs](https://t.me/lombokjs),

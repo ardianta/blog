@@ -7,10 +7,9 @@ draft: false
 tags:
     - Git
 
-meta:
-    image: "/img/git/clone/clone-repo-petanikode.png"
-    keyword: "Git, Github, Repository, Git Clone"
-    description: "Cara Clone Commit Terakhir dari Rpositori"
+image: "/img/git/clone/clone-repo-petanikode.png"
+keyword: "Git, Github, Repository, Git Clone"
+description: "Cara Clone Commit Terakhir dari Rpositori"
 ---
 
 Banyangkan ada `12283192311` commit yang sudah dilakukan pada repository.
