@@ -17,8 +17,11 @@ keyword: "Hugo, Gitlab, Github, Deploy"
 description: "Bagaimana cara deploy Hugo dari Gitlab ke Github Pages?"
 ---
 
-Karena di [Travis CI](/blog/hugo-travis-ci/) lama menunggu Queue build-nya, saya jadi ingin mengganti 
-ke Gitlab CI. 😄
+Di awal tahun baru, sepertinya pegawai [Travis CI](/blog/hugo-travis-ci/) sedang liburan.
+Hal ini munkin menyebabkan gangguan build di Travis CI. 
+Akibanya lama menunggu Queue build-nya.
+
+Sebagai alternatif, saya menggunakan CI milik Gitlab.
 
 Ini adalah isi file `.gitlab-ci.yml` di [repo blog saya](https://github.com/ardianta/blog):
 
