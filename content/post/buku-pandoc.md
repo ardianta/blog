@@ -47,6 +47,12 @@ Contonh penggunaan Pandoc dapat ditemukan pada [dokumentasinya](https://pandoc.o
 
 ![Percobaan pandoc](/img/pandoc/test-pandoc.png)
 
+## Sampel Buku
+
+Ini adalah contoh buku yang saya buat dengan Pandoc berdasarkan panduan dari dokumentasi.
+
+![Sampel buku dengan pandoc](/img/pandoc/sampel-buku.png)
+
 ## Akhir kata...
 
 Karena saya masih baru menggunakan Pandoc, saya tidak bisa berkata banyak. 
