@@ -14,8 +14,8 @@ image: "/img/pandoc/test-pandoc.png"
 description: "Pandoc merupakan sebuah program CLI untuk konversi dokumen ke beberapa format seperti HTML, EPUB, dll"
 ---
 
-Salah satu goal saya di tahun 2018 adalah membuat buku. Setidaknya
-bisa membuat ebook untuk catatan pribadi.
+Salah satu goal saya di tahun 2018 adalah membuat buku. 
+Setidaknya bisa membuat ebook untuk catatan pribadi.
 
 Syukur-syukur kalau ada yang mau baca 😄.
 
