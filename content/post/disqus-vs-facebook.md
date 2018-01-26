@@ -7,7 +7,6 @@ draft: false
 tags:
 
 image: "/img/disqus-fb/komentar-disqus.png"
-keyword: "disqus, facebook, komentar, blog, hugo"
 description: "Lebih pilihmana: disqus atau facebook?"
 ---
 

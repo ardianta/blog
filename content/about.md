@@ -7,7 +7,6 @@ draft: false
 type: page
 
 image: ""
-keyword: ""
 description: ""
 ---
 

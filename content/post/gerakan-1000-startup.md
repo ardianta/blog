@@ -7,7 +7,6 @@ draft: true
 tags:
 
 image: ""
-keyword: ""
 description: ""
 ---
 

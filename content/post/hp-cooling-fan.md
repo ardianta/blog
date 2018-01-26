@@ -8,7 +8,6 @@ tags:
     - laptop
 
 image: ""
-keyword: ""
 description: ""
 ---
 

@@ -10,7 +10,6 @@ tags:
     - firebase
 
 image: "/img/hugo/ci-gitlab.png"
-keyword: "Hugo, Firabase, Gitlab, CI"
 description: "Cara yang saya gunakan untuk deploy Hugo ke Firebase melalui Gitlab CI"
 ---
 

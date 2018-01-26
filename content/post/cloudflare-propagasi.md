@@ -9,7 +9,6 @@ tags:
     - Cloudflare
 
 image: "/img/dns/domain-netlify.png"
-keyword: "DNS, Cloudflare"
 description: "Propagasi bertujuan untuk mengumumkan alamat IP baru ke semua jaringan internet. Propagasi biasanya membutuhkan waktu 24 jam sampai bahkan 1 minggu."
 ---
 

@@ -10,7 +10,6 @@ tags:
     - lombok
 
 image: "img/lombokdev/gharin-lombokdev.jpg"
-keyword: "Lombokdev, Lombok, Meetup"
 description: "Acara-acara IT di Lombok tidak seramai di Jawa. Tapi kali ini ada Lombokdev Meetup ke-2 yang diselengarakan oleh komunitas Lombokdev."
 ---
 

@@ -11,7 +11,6 @@ tags:
     - Javascript
 
 image: "/img/react/reactjs-vscode.png"
-keyword: "Javascript, Lombokjs, Reactjs"
 description: "Langkah awal belajar React, ya pertama harus kenalan dulu dengan React-nya. Bagaimana sejarahnya? Kenapa harus menggunakan React? Bagaimana konsep React?"
 ---
 

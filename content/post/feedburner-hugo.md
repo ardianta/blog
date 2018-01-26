@@ -7,7 +7,6 @@ draft: false
 tags:
 
 image: "/img/feedburner/daftar-feedburner.png"
-keyword: "Feedburner, RSS Feed, Hugo, Blog"
 description: "Gunakan Feedburner agar orang-orang yang sudah berlangganan RSS Feed dari Blogmu tidak hilang"
 ---
 

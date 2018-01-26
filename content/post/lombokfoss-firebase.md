@@ -8,7 +8,6 @@ tags:
     - blog
 
 image: "img/lombokfoss/ssl.png"
-keyword: "Lombokfoss, Hugo, Firebase"
 description: "Rencananya saya mau pakai Hugo dan hostingnya di Firebase, lalu untuk DNS saya masih percayakan pada CloudFlare."
 ---
 

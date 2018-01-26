@@ -13,7 +13,6 @@ tags:
     - CI
 
 image: "/img/gitlab-github/token-github.png"
-keyword: "Hugo, Gitlab, Github, Deploy"
 description: "Bagaimana cara deploy Hugo dari Gitlab ke Github Pages?"
 ---
 

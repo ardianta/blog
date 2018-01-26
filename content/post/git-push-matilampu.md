@@ -8,7 +8,6 @@ tags:
     - Git
 
 image: "img/git-matilampu/repo-rusak.png"
-keyword: "Git, Github, Mati Lampu"
 description: "Apa yang akan terjadi saat menjalankan perintah git push lalu
 ditengah-tengah mati lampu?"
 ---

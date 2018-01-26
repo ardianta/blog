@@ -13,7 +13,6 @@ tags:
     - Surge
 
 image: "/img/hugo/ci-gitlab.png"
-keyword: ""
 description: "Cara deploy hugo dari Gitlab CI ke Surge"
 ---
 
