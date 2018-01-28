@@ -42,6 +42,7 @@ bekerja:
 - Slim Framework
 - Hugo
 - Laravel
+- Bootstrap
 
 ### IDE dan Teks Editor
 
@@ -59,6 +60,12 @@ bekerja:
 - Yarn
 - Apache Maven
 - Gradle
+
+### Server
+
+- Heroku
+- Firebase
+- Netlify
 
 ### Peralatan Desain
 
