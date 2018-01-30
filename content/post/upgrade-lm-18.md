@@ -880,33 +880,6 @@ mysql> show databases;
 +--------------------+
 | information_schema |
 | blog_php           |
-| ci_jamkrida        |
-| contoh_graf        |
-| cuitter            |
-| dinkop             |
-| dlmobi             |
-| epk                |
-| epoknak            |
-| epoknak_dev        |
-| lab_petanikode     |
-| larablog           |
-| lokasi             |
-| mahasiswa          |
-| my_php_project     |
-| mysql              |
-| pendaftaran_siswa  |
-| performance_schema |
-| perpustakaan       |
-| pesbuk             |
-| phpmyadmin         |
-| praktikumblog      |
-| ruwi               |
-| si_budaya_sasak    |
-| sys                |
-| tangsi_jaya_kom    |
-| tokobuku           |
-| ujian              |
-| web_a1             |
 +--------------------+
 29 rows in set (0,00 sec)
 
