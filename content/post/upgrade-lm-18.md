@@ -922,6 +922,13 @@ Ia tidak mau mengabil screenshot. 😔
 
 ![Error Shutter](/img/upgrade/error-shutter.png)
 
+**Update:**
+
+Solved, tarnyata harus melakukan setting terlebih dahlulu.
+
+
+![Error Shutter](/img/upgrade/shutter-setting.png)
+
 <!-- 
 Laporan bugs: https://bugs.launchpad.net/shutter/+bug/1746347
  -->
