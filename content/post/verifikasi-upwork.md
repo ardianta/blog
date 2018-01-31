@@ -7,7 +7,8 @@ draft: false
 type: post
 
 tags:
-    - tag
+    - Upwork
+    - Freelance
 
 image: "/img/upwork/upwork-akun.png"
 description: "Hari ini saya melakukan verifikasi profil upwork 😄..."
