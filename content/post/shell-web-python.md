@@ -10,7 +10,7 @@ tags:
     - Python
     - Linux
 
-image: ""
+image: "/img/python/web-python-interaktif.png"
 description: "Di website Python, terdapat shell python yang bisa kita gunakan untuk ujicaoba kode python. Lalu, bagaimana kalau kita akses shell seperti bash dan zsh dari sana?"
 ---
 
@@ -84,3 +84,5 @@ Tentu saja ada.
 Oya, shell ini terhubung dengan internet.
 Coba saja kita clone repository dari Github
 atau coba download sesuatu dengan `wget` dan `curl`.
+
+![Wget dari shell di Web Python](/img/python/wget.png)
