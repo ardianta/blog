@@ -13,12 +13,12 @@ image: "/img/vim/post-vim.png"
 description: "Memaksa diri menggunakan keymap VIM"
 ---
 
-Kira-kira sudah hampir satu minggu saya membeisakan diri
+Kira-kira sudah hampir satu minggu saya membiasakan diri
 menggunakan keymap VIM dengan menginstall exension
 VIM di Google Chrome dan VS Code.
 
 Di Google Chome saya install Vimum. Sedangkan
-di VS Code saya install [vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim).
+di VS Code saya install [vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) (emulator).
 
 Saya mulai terbiasa menggunakan tombol
 navigasi `h`,`j`,`k`, dan `l` dan merasakan
