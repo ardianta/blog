@@ -30,4 +30,11 @@ Kita cukup mengisi alamat `baseurl` dengan `localhost`:
 baseurl = "http://localhost"
 ```
 
+Atau bisa juga diberikan saat me-render atau menjalankan server Hugo
+dengan flag `-b` atau `--baseURL`.
+
+```bash
+hugo server -b http://localhost
+```
+
 Maka Hugo tidak akan melakukan HTTP Request lagi. 😜
