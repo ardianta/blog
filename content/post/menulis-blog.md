@@ -1,5 +1,5 @@
 ---
-title: "Tahapan Menulis Artikel di Blog (Ternyata Selama ini saya salah dalam menulis)"
+title: "Tahapan Menulis Artikel di Blog"
 slug: menulis-blog
 date: 2018-01-24T03:01:24+08:00
 draft: false
