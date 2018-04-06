@@ -10,11 +10,10 @@ image: ""
 description: ""
 ---
 
-Hi, nama saya __Ahmad Muhar Dian Lasmita__, disingkat __Ardianta__.
+Hello, nama saya **Ahmad Muhar Dian Lasmita**, disingkat ARDIANTA.
+Sering dipanggil **Dian** (di rumah) dan **Pargo** (di sekolah).
 
-Orang-orang sering memanggil saya __Dian__ atau __Pargo__.
-
-Pengguna GNU/Linux sejak tahun 2011 hingga saat ini. Sehari-hari menggunakan GNU/Linux untuk pemrograman, desain, dan menulis.
+<!-- Pengguna GNU/Linux sejak tahun 2011 hingga saat ini. Sehari-hari menggunakan GNU/Linux untuk pemrograman, desain, dan menulis. -->
 
 Saat ini, saya adalah seorang mahasiswa Teknik Informatika di 
 salah satu perguruan tinggi swasta di kota Mataram.
@@ -24,4 +23,4 @@ Pernah bersekolah di [SMK Negeri 2 Kuripan](http://www.smkn2kuripan.sch.id/) den
 
 Kontak yang bisa dihubungi:
 
-- Email: <a href="mailto:dian@petanikode.com">dian@petanikode.com</a>
+- Email: <a href="mailto:dian@petanikode.com">dian@petanikode.com</a> 
