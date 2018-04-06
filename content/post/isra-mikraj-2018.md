@@ -9,8 +9,8 @@ type: post
 tags:
     - tag
 
-image: ""
-description: ""
+image: "/img/isra-mikraj/panitia.jpg"
+description: "Dua minggu ini saya tidak pernah nge-push ke Github, karena sibuk menjadi panitia"
 ---
 
 Dua minggu ini saya nggak pernah coding,
