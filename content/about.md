@@ -6,9 +6,11 @@ draft: false
 
 type: page
 
-image: ""
+image: "/img/about-me.jpg"
 description: ""
 ---
+
+![About Ardianta](/img/about-me.jpg)
 
 Hello, nama saya **Ahmad Muhar Dian Lasmita**, disingkat ARDIANTA.
 Sering dipanggil **Dian** (di rumah) dan **Pargo** (di sekolah).
