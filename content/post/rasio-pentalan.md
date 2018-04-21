@@ -57,6 +57,6 @@ Biasanya dipengaruhi oleh:
 - Pengunjung tidak menemukan apa yang dicari
 - dll.
 
-Rasio pentalan ini dapat kita lihar dari Google Analytic.
+Rasio pentalan ini dapat kita lihat dari Google Analytic.
 
 Lalu, berapa persen rasio pentalan blogmu?
