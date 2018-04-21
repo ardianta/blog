@@ -57,7 +57,11 @@ Rencananya dalam waktu dekat ini, saya akan membli wacom untuk menggambar di kom
 
 ## Tantangan
 
-Apapun hasilnya, saya akan terus menggambar (mudah-mudahan tetap konsisten).
+Saat ini saya cukup sibuk, beberapa pekerjaan belum diselesaikan.
+
+{{< tweet 987569759343407106 >}}
+
+Akankah saya punya waktu untuk menggambar... 🤔
 
 Meskipun tak dibayar. 😄
 
@@ -66,3 +70,5 @@ Yang penting kita senang melakukannya.
 
 Jelek dan bagusnya sebuah gambar, itu adalah hasil latihan. 
 Semakin sering latihan, maka insya'allah hasilnya akan semakin bagus.
+
+Apapun hasilnya, saya akan terus menggambar (mudah-mudahan tetap konsisten).
