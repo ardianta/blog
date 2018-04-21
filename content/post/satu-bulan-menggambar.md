@@ -23,7 +23,7 @@ lagi untuk menggambar.
 Menggambar adalah hobi saya sejak SD dan SMP.
 
 Lalu, saat masuk SMK dan kuliah, saya tidak menggambar lagi.
-Karena mungkin tidak ada teman yang punya hobi yang sama dengan saya.
+Karena mungkin tidak ada teman yang sehobi dengan saya.
 
 Lalu beberapa waktu yang lalu, saya menemukan video tutorial
 menggambar manga di Youtube.
