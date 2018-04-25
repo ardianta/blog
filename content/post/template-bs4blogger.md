@@ -37,6 +37,8 @@ membuat blognya terlihat:
 - Sederhana
 - dan profesional.
 
+![Coming Soon Template Petanikode untuk Blogger](https://3.bp.blogspot.com/-KzRiRE8FAtM/WuBBg6k5GzI/AAAAAAAAE8M/q7iR9_q-loUY1oZR1B_0HRmVAKcD0ipeQCK4BGAYYCw/s1600/bs4blogger-cover.png)
+
 ### Tertarik?
 
 Cek demonya di sini: https://bs4blogger.blogspot.co.id/
