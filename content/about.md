@@ -25,4 +25,5 @@ Pernah bersekolah di [SMK Negeri 2 Kuripan](http://www.smkn2kuripan.sch.id/) den
 
 Kontak yang bisa dihubungi:
 
-- Email: <a href="mailto:dian@petanikode.com">dian@petanikode.com</a> 
+- Email: <a href="mailto:dian@petanikode.com">dian@petanikode.com</a>
+- WA/Telegram: +6287866866694
