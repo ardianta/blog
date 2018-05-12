@@ -42,11 +42,16 @@ Namun, sejak saat itu...
 ...dia menginspirasi saya untuk mencoba cat air.
 
 Setelah lomba, saya akhirnya membeli kuas dan cat air.
-Lalu mencoba sendiri melukis dengan kertas.
+Lalu mencoba sendiri.
 
 Hasilnya jelek! 😄
 
 Ternyata susah.
+
+Waktu itu saya belum tahu apa-apa tentang cat air.
+Kertas yang saya gunakan pun bukan kertas untuk cat air.
+
+Hasilnya kertas kadang sobek, karena basah. haha...
 
 Sekarang saya coba menggmabar lagi dengan cat air.
 Tapi melalui komputer.
