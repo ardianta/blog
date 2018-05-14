@@ -10,8 +10,8 @@ tags:
     - Art
     - Drawing
 
-image: ""
-description: ""
+image: "/img/wacom/wacom-intuos.jpg"
+description: "Pada awal-awal menggunakan pen tablet memang sulit. Namun, semakin sering latihan...semakin gampang."
 ---
 
 Hari sabtu tanggal 3 Mei kemarin, saya membeli pen tablet wacom milik
