@@ -87,7 +87,7 @@ Hari berikutnya, membuat garis dan mewarnai.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2169200343097326&width=500" width="500" height="725" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-Mencoba style chibi, karena habis melihat tutorial menggamabar
+Mencoba style chibi, karena habis melihat tutorial menggambar
 karakter chibi di Youtube.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2169313579752669&width=500" width="500" height="408" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
@@ -104,7 +104,7 @@ Latihan Shading dan Lighting:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2170071736343520&width=500" width="500" height="383" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-Istirahat menggamabar dengan Wacom, kali ini saya menggunakan HP dengan jari di aplikasi Medibang Paint:
+Istirahat menggambar dengan Wacom, kali ini saya menggunakan HP dengan jari di aplikasi Medibang Paint:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2170459572971403&width=500" width="500" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -120,7 +120,7 @@ Mencoba menggambar diri sendiri:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2171457876204906&width=500" width="500" height="426" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-Mencoba menggamabr karakter cowok:
+Mencoba menggambar karakter cowok:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2171881306162563&width=500" width="500" height="433" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -139,7 +139,7 @@ Menggambar karakter untuk digunakan di Petani Kode:
 {{< youtube pwrxVzH-lAo >}}
 
 
-Latihan menggamabar di HP:
+Latihan menggambar di HP:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2172691569414870&width=500" width="500" height="595" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -165,9 +165,9 @@ Latihan menggambar karakter chibi:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2175541982463162&width=500" width="500" height="292" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-Menggamabar karakter dari foto (challenge dari grup gamabr):
+Menggambar karakter dari foto (challenge dari grup gambar):
 
-![Menggamabar anime dari foto](/img/wacom/tantangan-group.png)
+![Menggambar anime dari foto](/img/wacom/tantangan-group.png)
 
 Belajar menggambar dua karakter:
 
@@ -181,7 +181,7 @@ Belajar membuat komik strip:
 
 ## Akhir Kata...
 
-Itulah hasil latihan menggamabar menggunakan Wacom selama seminggu.
+Itulah hasil latihan menggambar menggunakan Wacom selama seminggu.
 Sebenarnya masih banyak lagi yang belum saya upload.
 
 Rata-rata mungkin saya menghabiskan waktu 1 jam untuk menyelesaikan gambar
