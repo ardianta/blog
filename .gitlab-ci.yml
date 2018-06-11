@@ -1,9 +1,11 @@
-image: andthensome/alpine-hugo-git-bash:0.31.2
+# image: andthensome/alpine-hugo-git-bash:0.31.2
 
 before_script:
   - hugo version
   - git --version
   - export HUGO_VERSION=0.41
+  - sudo apt install git
+  - sudo apt install hugo
 
 stages:
   - deploy
