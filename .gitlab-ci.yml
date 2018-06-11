@@ -1,11 +1,8 @@
-# image: andthensome/alpine-hugo-git-bash:0.31.2
+image: registry.gitlab.com/pages/hugo:latest
 
 before_script:
-  - apt install hugo
   - hugo version
   - git --version
-  - export HUGO_VERSION=0.41
-
 
 stages:
   - deploy
