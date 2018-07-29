@@ -13,7 +13,7 @@ image: "/img/gempa/korban-gempa.png"
 description: "Pagi ini (Minggu, 29 Juli 2018) Lombok diguncang gempa 6 SR."
 ---
 
-**Minggu, 29 Juli 2018**, Pagi ini Lombok diguncang gempa 6 SR.
+**Minggu, 29 Juli 2018**. Pagi ini Lombok diguncang gempa 6 SR.
 
 Saat itu, saya masih tertidur...
 
