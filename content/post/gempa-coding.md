@@ -22,7 +22,7 @@ Saat itu, saya masih tertidur...
 Laptop saya masih menyala, karena semalam
 tiduran sambil ngoding.
 
-Menyelesaikan [tugas submission 4 dari Dicoding.](https://www.dicoding.com/academies/55?course_ref=d281eb5ab90780db6a0502bc).
+Menyelesaikan [tugas submission 4 dari Dicoding](https://www.dicoding.com/academies/55?course_ref=d281eb5ab90780db6a0502bc).
 
 Android Studio masih terbuka...
 
