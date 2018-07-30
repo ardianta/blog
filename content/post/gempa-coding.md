@@ -97,3 +97,8 @@ Namun.
 Inilah ujian.
 
 ***Inalillahiwainahilahirojiun...***
+
+Update: 30 Juli 2018
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="in" dir="ltr">Hingga hari ini pukul 10.00 WIB telah terjadi 280 kali <a href="https://twitter.com/hashtag/gempa?src=hash&amp;ref_src=twsrc%5Etfw">#gempa</a> susulan.<br>Selalu ikuti informasi perkembangan gempa melalui akun <a href="https://twitter.com/infoBMKG?ref_src=twsrc%5Etfw">@infoBMKG</a> dan jangan mudah percaya dengan berita <a href="https://twitter.com/hashtag/Hoax?src=hash&amp;ref_src=twsrc%5Etfw">#Hoax</a> yang mengatasnamakan <a href="https://twitter.com/hashtag/BMKG?src=hash&amp;ref_src=twsrc%5Etfw">#BMKG</a>.<a href="https://twitter.com/hashtag/Lombok?src=hash&amp;ref_src=twsrc%5Etfw">#Lombok</a> <a href="https://twitter.com/hashtag/PrayForLombok?src=hash&amp;ref_src=twsrc%5Etfw">#PrayForLombok</a></p>&mdash; BMKG (@infoBMKG) <a href="https://twitter.com/infoBMKG/status/1023778173777993729?ref_src=twsrc%5Etfw">July 30, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
