@@ -57,3 +57,5 @@ Mantap :+1:
 
 Sekarang saya bisa tahu jumlah kata yang
 ditulis.
+
+{{< tweet 1037985999752593408 >}}

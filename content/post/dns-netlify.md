@@ -2,15 +2,17 @@
 title: "Error 520: Petanikode Down!"
 slug: dns-netlify
 date: 2018-09-04T18:05:05+08:00
-draft: true
+draft: false
 
 type: post
 
 tags:
-    - tag
+    - cloudflare
+    - blog
+    - netlify
 
-image: ""
-description: ""
+image: "/img/dns-netlify/520.png"
+description: "Beberapa hari ini saya sering mendapatkan laporan error 520 dari pengunjung Petanikode. Saya tidak tahu penyebabnya apa..."
 ---
 
 Beberapa hari ini saya sering mendapatkan laporan **error 520**
@@ -25,7 +27,7 @@ Ataukah Netlify yang tidak mau akur dengan cloudflare?
 Saya tidak tahu penyebabnya apa...
 
 Namun, screenshot di atas menujukan kalau server tempat
-Petanikode dihosting telah down.
+Petanikode di-hosting telah down.
 
 Sedangkan Cloudflare berusaha melayani request dengan
 cache yang ada.
@@ -37,7 +39,7 @@ Hmmm....
 Netlify memberikan kuota bandwidth sampai 100GB per bulan.
 Kalau dilihat dari analytic Cloudflare...
 
-![Analytic Cloudflare]()
+![Analytic Cloudflare](/img/dns-netlify/bandwidth.jpg)
 
 Kuota bandwidth yang dihabiskan Petanikode selama sehari
 sekitar 500MB. Dalam sebulan, bisa mencapai 15GB.
@@ -46,8 +48,7 @@ Menurut saya ini bukan masalah pada bandwidth.
 
 Mungkin saja Netlify dan Cloudflare tidak mau akur,
 karena beberapa hari yang lalu saya pernah membaca
-blog netlify yang mengungkapkan: "Mengapa netlify
-tidak perlu pakai cloudflare"
+blog netlify yang memberikan alasan: ["Mengapa netlify tidak perlu pakai cloudflare"](https://www.netlify.com/blog/2017/03/28/why-you-dont-need-cloudflare-with-netlify/)
 
 ## Percobaan Melepas Cloudflare
 
@@ -60,14 +61,14 @@ akan khwatir kalau down beberapa hari karena propagasi.
 Saya langsung mengubah Nameserver di IDWebhost
 agar mengarah ke Netlify.
 
-![DNS IDwebhost]()
+![DNS IDwebhost](/img/dns-netlify/idwebhost.png)
 
 Lalu beberapa menit kemudian, saya verifikiasi
 konfigurasi DNS di Netlify.
 
 ...dan berhasil.
 
-![Konfigurasi DNS Netlify]()
+![Konfigurasi DNS Netlify](/img/dns-netlify/netlify.png)
 
 Webnya masih mengudara hingga saat ini.
 Tidak ada propagasi.
