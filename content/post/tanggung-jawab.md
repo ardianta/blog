@@ -304,6 +304,8 @@ Akhirnya korek api tersbut disita.
 
 ## Saya Memalsukan Nama
 
+![SMK Negeri 2 Kuripan](/img/tanggung-jawab/smk2kuripan.jpg)
+
 Saya adalah siswa yang sering terlambat
 datang di hari senin.
 
