@@ -16,12 +16,12 @@
                     <div class="card-body p-md-5">
                         <div class="post-content">
                             <div class="post-header mb-3">
-                                <h2 class="post-title">{{ .Title }}</h2>
+                                <h2 class="post-title">{{ .Title | emojify }}</h2>
                                 <hr>
                                 <time class="text-secondary small" title="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
                             </div>
                             <div class="post-body">
-                                {{ .Content }}
+                                {{ .Content | emojify }}
                             </div>
                             <div class="post-footer mt-5 py-4">
                                 

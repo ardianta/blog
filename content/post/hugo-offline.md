@@ -40,3 +40,6 @@ hugo server -b http://localhost
 Maka Hugo tidak akan melakukan HTTP Request lagi. 😜
 
 > Update 06/04/2018: Ternyata masih belum bisa...
+
+> Update 11/10/2018:
+> Solusinya gunakan variabel `.IsServer`
