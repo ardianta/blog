@@ -10,8 +10,6 @@ disqusShortname = "ardianta"
   page = "/:slug/"
 
 [params]
-    isProduction = false
-
     # Site Author
     author = "Dian"
 

@@ -29,7 +29,7 @@ github_pages:
     - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
     - mv public/.git /tmp/.git # backup .git
     - rm -rf public/* # clean old build
-    - hugo --config config.production.toml # build site
+    - hugo --minify # build site
     - mv /tmp/.git public/.git # restore .git
     - cd public
     - git add -A
