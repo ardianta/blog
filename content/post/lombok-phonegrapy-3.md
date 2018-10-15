@@ -1,6 +1,8 @@
 ---
-title: "Ulang Tahun Komunitas Lombok Phonegrapy yang ke-3"
-slug: lombok-phonegrapy-3
+title: "Ulang Tahun Komunitas Lombok Phonegraphy yang ke-3"
+slug: lombok-phonegraphy-3
+aliases: 
+    - lombok-phonegrapy-3
 date: 2018-10-15T10:10:42+08:00
 draft: false
 
@@ -13,7 +15,7 @@ tags:
     - LombokPhonegraphy
 
 image: "/img/lp3/lp3.jpg"
-description: "Bagaimana keseruan pesta ulang tahun komunitas Lombok Phonegrapy yang ke-3?"
+description: "Bagaimana keseruan pesta ulang tahun komunitas Lombok Phonegraphy yang ke-3?"
 ---
 
 Bisa dibilang... saya keluarga baru di komunitas ini.
@@ -59,7 +61,7 @@ mendukung satu sama lain dalam berkarya.
 Acara pertama diisi oleh [Adi Teci](https://www.facebook.com/adi.teci), 
 founder dari komunitas Lombok Phonegraphy.
 
-Menceritakan bagaimana dulunya komunitas ini
+Ia menceritakan bagaimana dulunya komunitas ini
 terbentuk.
 
 ![Adi teci](/img/lp3/adi-teci.jpg)
@@ -68,7 +70,7 @@ terbentuk.
 
 Awalnya dulu pada tanggl 15 Oktober 2015,
 komunitas ini bernama **Mata Lensa**.
-Kemudian berubah nama menjadi **Lombok Phonegrapy**.
+Kemudian berubah nama menjadi **Lombok Phonegraphy**.
 
 Di sini tempat bekumpul orang-orang yang
 memiliki hobi yang sama, yaitu: fotografi.
@@ -89,18 +91,19 @@ mengimbangi hasil dari kamera profesional seperti DSLR.
 Namun, dari keterbatasan itu... melahirkan
 kreativitas.
 
-Sehingga ini menjadi selogan Lombok Phonegrapy:
+Sehingga ini menjadi selogan Lombok Phonegraphy:
 
 **"Fitur Minimal, Karya Maksimal"**
 
-Hasil karya dari komunitas Lombok Phonegrapy
-tidak kalah bagus dengan fotografi dengan kamera profesional.
+Hasil karya dari komunitas Lombok Phonegraphy
+tidak kalah bagus dengan hasil fotografi 
+dengan kamera profesional.
 
 Mereka mengembangkan teknik-teknik fotografi baru
 yang khusus menggunakan ponsel.
 
 Seperti misalnya, teknik menggunakan lingkaran 
-pada saat kita mengambil foto dengan kamera ponsel.
+pada saat kita mengambil foto di kamera ponsel.
 
 ![Kamera ponsel](/img/lp3/phone-camera.jpg)
 
@@ -123,8 +126,7 @@ untuk menghasilkan karya yang bagus.
 
 ### 2. Workshop Photography
 
-Berikutnya acara diisi oleh bang [Heri Gunawan](https://www.facebook.com/Hery.HaGe.Gunawan), beliau
-adalah praktisi yang memiliki pengalaman
+Berikutnya acara diisi oleh bang [Heri Gunawan](https://www.facebook.com/Hery.HaGe.Gunawan), beliau adalah praktisi yang memiliki pengalaman
 bertahun-tahun di dunia fotografi baik
 menggunakan kamera profesional dan ponsel.
 
@@ -149,7 +151,7 @@ Beliau adalah pendiri dan admin dari [@LombokFriendly](https://www.instagram.com
 
 ![Adit](/img/lp3/adit.jpg)
 
-Dalam bagian ini, kami mendapatkan sharing 
+Dalam sesi ini, kami mendapatkan sharing 
 pengalaman dari bang Adit tentang bagaimana
 membangun brand *(branding)* di sosial media 
 dan mendapatkan penghasilan dari hobi fotografi.
@@ -157,11 +159,11 @@ dan mendapatkan penghasilan dari hobi fotografi.
 ### 4. Door Prize
 
 Sesi berikutnya pembagian door prize berupa tiket
-nonton ke bioskop buat yang bisa jawab beberapa
+nonton bioskop buat yang bisa jawab beberapa
 pertanyaan.
 
 Sementara untuk member yang foto-fotonya terpilih
-pada *challenge* minggu lalu mendapatkan penghargaan
+pada *challenge* minggu lalu, akan mendapatkan penghargaan
 berupa pulsa 50rb sampai 100rb.
 
 ![Tema mingguan lombok phonegraphy](/img/lp3/lp-tema.png)
@@ -176,7 +178,7 @@ ditampilkan.
 ### 6. Potong Kue dan Tiup Lilin
 
 Nah ini acara puncak yang paling seru.
-Semua bergermbira. 
+Semuanya bergembira. 
 
 Para moderator dan admin meniup 
 lilin bersama.
@@ -195,8 +197,8 @@ Ini adalah sesi *hunting* bersama.
 Semua orang mengeluarkan ponselnya dan mulai
 memfoto.
 
-Di sini sudah ada model dari *Dedare Squad* yang siap
-difoto.
+Di sini sudah ada model dari *Dedare Squad* 
+yang siap difoto.
 
 ![Foto model](/img/lp3/foto-model.jpg)
 
@@ -265,8 +267,9 @@ Ini upaya pemerintah daerah untuk memberikan semangat
 kepada masyarakat.
 
 Untuk menularkan semangat ini sampai ke sahabat kami di
-Palu atau Sulawesi yang sedang berduka, komunitas Lombok Phonegrapy 
-berinisatif untuk membuat donasi sederhana dalam bentuk materi dan buku.
+Palu atau Sulawesi, komunitas Lombok Phonegraphy 
+berinisatif untuk membuat donasi sederhana dalam 
+bentuk materi dan buku.
 
 Ini adalah bagian yang paling berkesan...
 
@@ -275,7 +278,7 @@ Ini adalah bagian yang paling berkesan...
 ## Akhir Kata...
 
 Selamat ulang tahun yang ke-3 untuk
-komunitas Lombok Phonegrapy :tada:
+komunitas Lombok Phonegraphy :tada:
 
 Semoga semakin banyak karya-karya keren
 dan komunitas-komuntas kreatif semakin banyak di
@@ -285,6 +288,6 @@ dalam pembangunan sumber daya manusia di NTB.
 Kata-kata terakhir yang masih saya ingat
 saat penututpan acara ini:
 
-"Mari kita bangun kembali NTB bersama-sama dengan cara kita"
+"Kita bersama-sama membangun NTB dengan cara kita"
 
 :fire: :fire: :fire:
