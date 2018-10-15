@@ -270,7 +270,7 @@ berinisatif untuk membuat donasi sederhana dalam bentuk materi dan buku.
 
 Ini adalah bagian yang paling berkesan...
 
-<!-- Screenshot surat untuk Palu -->
+![Surat dari Lombok untuk Palu](/img/lp3/buku.jpg)
 
 ## Akhir Kata...
 
