@@ -137,6 +137,10 @@ Saya yang awalnya amatiran, mendapatkan
 banyak pencerahan tentang bagaimana
 cara mengambil gambar yang baik.
 
+Berikut ini rekaman audionya:
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fardianta%2F3rd-anniversary-lombok-phonegraphy-workshop-photography%2F" frameborder="0" ></iframe>
+
 ### 3. Sharing Pengalaman LombokFriendly
 
 Acara berikutnya diisi oleh Adit R. Alfath.
