@@ -288,6 +288,6 @@ dalam pembangunan sumber daya manusia di NTB.
 Kata-kata terakhir yang masih saya ingat
 saat penututpan acara ini:
 
-"Kita bersama-sama membangun NTB dengan cara kita"
+"Mari Kita bersama-sama membangun NTB dengan cara kita"
 
 :fire: :fire: :fire:
