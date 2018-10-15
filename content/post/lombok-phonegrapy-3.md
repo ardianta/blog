@@ -2,7 +2,7 @@
 title: "Ulang Tahun Komunitas Lombok Phonegraphy yang ke-3"
 slug: lombok-phonegraphy-3
 aliases: 
-    - lombok-phonegrapy-3
+    - /blog/lombok-phonegrapy-3/
 date: 2018-10-15T10:10:42+08:00
 draft: false
 
