@@ -2,7 +2,7 @@
 title: "TFT Indonesia Bijak NTB"
 slug: tft-ib-ntb
 date: 2018-11-25T20:41:52+08:00
-draft: true
+draft: false
 
 type: post
 
