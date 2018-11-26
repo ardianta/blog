@@ -1,5 +1,5 @@
 ---
-title: "TFT Indonesia Bijak NTB"
+title: "Pengalaman Ikut TFT Indonesia Bijak NTB"
 slug: tft-ib-ntb
 date: 2018-11-25T20:41:52+08:00
 draft: false
@@ -19,7 +19,7 @@ Hari Sabtu sampai minggu tanggal 24--25 November 2018, saya mengikuti acara TFT 
 Acara ini merupakan pelatihan membuat konten positif semacam meme untuk melawan hoax.
 Acara ini berlangsung seru, dan bayak wawasan baru yang bisa didapatkan dari sana.
 
-Salah satu yang membuat saya tertarik adalah data tinggak literasi
+Salah satu yang membuat saya tertarik adalah data tinggat literasi
 yang ditampilkan pemateri.
 
 Di sana Indonesia berada di urutan ke-60 dari 61 negara.
