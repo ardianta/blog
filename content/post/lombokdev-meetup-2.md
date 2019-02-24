@@ -1,5 +1,5 @@
 ---
-title: "Lombokdev Meetup #2"
+title: "Lombokdev Meetup #002"
 slug: lombokdev-meetup-2
 date: 2017-10-17T23:43:40+08:00
 draft: false
