@@ -9,8 +9,8 @@ type: post
 tags:
     - tag
 
-image: ""
-description: ""
+image: "/img/ga/filter.png"
+description: "Entah ini disengaja atau tidak, laporan page dari web rmco.id masuk ke google analytic petanikode yang membuat saya bingung."
 ---
 
 Pada tanggal 24 kemarin, trafik di petanikode tiba-tiba meningkat 2x lipat
