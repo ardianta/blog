@@ -18,7 +18,7 @@ mirroring:
     - git config --global user.name "ardianta"
   script:
     - git remote add github https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/blog.git
-    - git push github master    
+    - git push github --all    
 
 # Deploy to github pages  
 github_pages:
