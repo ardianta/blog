@@ -1,0 +1,65 @@
+---
+title: "Takbiran 2019: Mercon di mana-mana"
+slug: takbiran-2019
+date: 2019-06-05T22:00:00+08:00
+draft: false
+
+type: post
+
+tags:
+    - Takbiran
+
+image: "https://lh3.googleusercontent.com/z84XqajbGjgBd2LzfxVI7wC8kFh-ulzuGwHkk6phaHzvDoBMDU-dXjREWYLCb9hHykx6vs6tJQXtCDFZ1E_20mlTzDnVc0Q5qdrB1bc9lVwxiMuFMKKtlKRLht6S7DbNHnDq7JY8VF2B_H9cuZ_QLb6_rzKiZl_lBoUai_1ClSPwbvheEKhfqkFYc5DnXs5VD2S1bZ1RztFt1irnDTBdRXEpjSjdLlD0U6g1NlSR9jKzkEUpyDudHQ9bxezLj1tmscv_V-nkBqBVEk-yVVwl0BYSR5xvddtVz4ilRRiEYz54ECUkAga0LGth84z_g2_tmvZFCxhQI0-gHgHvdjvGYhoZsdQh3i8L6r-wsGmcHHlqQ8ZeCAjMum5N-pQBBjm52Qir9Qr3x8eqBXwER91t7d-iFtbxBK-VUcGrMhjjzWIIqitWq33IFBRGhbDP_moeP4pRKEho9XnqNZyH6lcXQOVAzSwCU4ZmBQhLFuXCYg1KqKmiV_LQuTzeyvixsotiYi1xhfrsngYjU4UGwLCI6jSe5t2tCNzVSfsWx1uQr9u4Zin8g-y0bcqDesif0oe5VPCphv2gjPdaH-cJ4UICR8gQILsXaqhlTp4JFeTgT01mdAuxoMkCATQ-CIQoJYo2q4EacjwC-w8oQzgiPw0iw69EisdxhtY=w550-h977-no"
+description: "Meski sudah dihimbau agar tidak membakar mercon, sepertinya itu tidak ada artinya..."
+---
+
+Biasanya saya di kamar aja saat malam takbiran,
+tapi tahun ini saya ikut takbiran di luar.
+
+Remaja Mushola di kampung saya cukup aktif,
+mereka mengikuti lomba takbiran yang
+diselengarakan oleh pemerintah desa.
+
+Mereka mengusung konsep bulan bintang
+dan lampu lampion.
+
+![Bulan Bintang](https://lh3.googleusercontent.com/AwI72_Bkxq5l5Hd1EN78fSZVEllX0nrKCT1H3qv9qeHIfqTGJB16Mkg5eWUmPFtnNYDhy1fObbUtxt0cCHPPlVukxTBxWVMW1Q9vQ0I1dNLlD1iFH02IeQQHi1LxzHZ4qxkMPa3iVZ0l8j9n4UI736NdWCrBfKb0VX9b7Rw-OmTGopOTCcLrZVpUwzK9NPQW0lVldj3pxt43iVPogj1ZovwZXEIpv3qTMZuNAQZLwqqCJ3a3NJX1O5rFFslA7YCksivBF0MHFkFFW1LY45waQS3GY3z74kxhiDGM18hTPtZ9r3iadXzArPcVaFWF6u9kvf5RxnyfMbyjeUQ8jegaJcd4tr-Koq3gz8u5fKA6ab6jI0QuXrRm7qOoSkwqaeAXba-EK8adbwBpmiN0hRQfUezXx53WEil00JavUlwyGDNI9rxrMM7bSb-VU7Q1UNxltOQAvvSuPGeo6ZZR1G6_LMo5cWKw7XQd_2DtqhE0m0jQC_yvuwJwCVqIncWGp0UCOOQ64dg944bGDWMtrTpkzazZqEE4E8aWMd2ZtjBNhQoyoqbGfy8klBifLYhy0Tlk2Vu-gsLi7KURVyNRRiPiI0i0lUoLdK2nxX8BTAuNaQjoZH53ryXjbOAWOScExbXPDXOjLx9kR0LB6Aa_jSc-YzJr1PHp-ow=w1737-h977-no)
+
+...dan lampu lampionnya terlihat indah saat
+dibawa bersama-sama.
+
+![Lampu lampion](https://lh3.googleusercontent.com/mkDnB2TzOqGiW0ip91D62TnCfqLcK0VQCbgCbNIFg-WdqYQu8944nv92FNfWLMgTv-oGdUlhq_HSlkA6_2Z2cuAH_vtYWH8b82u_gUvtTQ-yqwXEf4uAAmTMGWKeBKjN-jFR7VSUDNeHJxnADXwx6U0HphPESq4chYUYho8X6KmUUN4KZgt52LSHfz2sR07DF2LL4FaYDYGqenSHw01d_hZvouic6wM1mtoglSHC5i_5Z0ByWClNU9AEdPo54T6AgnEsllrW38a-Zw8c0hpPf4W5T9i8i84a6dypCHgFLMzh7d45-LYgjm1YV6V9EytlwPD31JM-fDJWuLXZ7fBoATrLaGJYHQqzSquVcXv8luDfcwRotX6_LZecoHIxTvvDISValq5IJdMAQOugSH7K_UbehmIqq-0BhMPE7kzEFS0Hv6PUdP8QzCz4qFvXtpGfZsWslN91zo4cHmRhpONcfl-eW1NHAHQrR1LJLTKuXynvI3wd8nwwxEaYzZzDG-LZ598Q9eWW-4-n_CRhl6Xy5Bs6vW-fxxdBelLk0n7g5whMlUO3bEYLRQxDjoW8IfNpDfRge9sxAR7pJPQCVm9VKuM2rJ4Ey11s8qYZ5walLLdtD-4e3Cke_T01LEdtFY5X4YZghgpD3TaXyBpat-j1eQf-U-aT6rg=w1737-h977-no)
+
+![Lampu lampion 2](https://lh3.googleusercontent.com/Z3SnRvW3Ckuc6eUrYOSzaAUJCjaF7YsiCPEWJ8nO7V2jpuXvQ0PNkydGQayoCp-TVqUuSylfSD2pewft_O3L8UOUsykEYVgzn_6gWH5u_5YeK5VoL0IflGgic8m-6jMbMjFzjocVSLIoVTS78QZon4qqMqoqEP3auqDg-WtUaz38mJ0p5hv6MA2DUfq5OX1ztGWTNvVC_Y-mmOiKuQVsOWNncP5T5z5GUqLBcDItYnll7_i39lNmAD1Gv8bIIEO1UiaT-0rUTftVdZ_sTANpnZIPiK5p0X3a-8y8rj5FhaGxXufFnRoo3A9vLIcnjfaxXQnq_HxFzRt1BSczsuNffWxKpPYEDbnmGv9jz39lQo1-Ywvo5bgbX3CWyi5W9eYKTV7zgq_UGJwPxf5fzR99RTe6l4FExmGL9zZqBRSnZILseySz2I9A4BmM3o1-qQifAn8kd9k3mFbEx9pcwo_B10Jj0PwEVGpmqTo1r6Nfq8viS3uBwgH-Z7Tqo8a7uLu2xGugRkx8OiY8hGHw4ygFKEMN3oN5v3kkfTZq2Q7l0Ypi98bzIJcb0PiFFyjjC6FuvzvYvO7k-a4OSCY10VCo_d8a5V64EYfeE7KhDP1dSpcvj7OX4DqhiTYYzxq7TzKNi43LxadCgW7Zi7BoGNKtk_V3kkct-eE=w1737-h977-no)
+
+Hasilnya tidak mengecewakan, mereka dapat juara II... :tada:
+
+## Awas Mercon!
+
+Meski sudah dihimbau agar tidak membakar mercon,
+sepertinya itu tidak ada artinya...
+
+Karena malam ini adalah malam takbiran.
+
+Biasanya saat kecil dulu, saya membakar
+mercon saat bulan Ramadhan dan sering dikejar-kejar
+warga karena menggangu, hehe...
+
+Tapi di bulan ramadhan saat ini, mercon sepertinya
+berkurang. Tidak seekstrim seperti saat saya masih 
+kecil dulu.
+
+![Mercon](https://lh3.googleusercontent.com/z84XqajbGjgBd2LzfxVI7wC8kFh-ulzuGwHkk6phaHzvDoBMDU-dXjREWYLCb9hHykx6vs6tJQXtCDFZ1E_20mlTzDnVc0Q5qdrB1bc9lVwxiMuFMKKtlKRLht6S7DbNHnDq7JY8VF2B_H9cuZ_QLb6_rzKiZl_lBoUai_1ClSPwbvheEKhfqkFYc5DnXs5VD2S1bZ1RztFt1irnDTBdRXEpjSjdLlD0U6g1NlSR9jKzkEUpyDudHQ9bxezLj1tmscv_V-nkBqBVEk-yVVwl0BYSR5xvddtVz4ilRRiEYz54ECUkAga0LGth84z_g2_tmvZFCxhQI0-gHgHvdjvGYhoZsdQh3i8L6r-wsGmcHHlqQ8ZeCAjMum5N-pQBBjm52Qir9Qr3x8eqBXwER91t7d-iFtbxBK-VUcGrMhjjzWIIqitWq33IFBRGhbDP_moeP4pRKEho9XnqNZyH6lcXQOVAzSwCU4ZmBQhLFuXCYg1KqKmiV_LQuTzeyvixsotiYi1xhfrsngYjU4UGwLCI6jSe5t2tCNzVSfsWx1uQr9u4Zin8g-y0bcqDesif0oe5VPCphv2gjPdaH-cJ4UICR8gQILsXaqhlTp4JFeTgT01mdAuxoMkCATQ-CIQoJYo2q4EacjwC-w8oQzgiPw0iw69EisdxhtY=w550-h977-no)
+
+Pada malam takbiran tahun ini, mercon di mana-mana.
+Bahkan ada yang memborong semua mercon untuk dibakar
+di malam ini.
+
+Kalau saya mungkin akan berpikir dulu...
+
+Mungkin uangnya sebaiknya dipakai buat beli
+kuota internet daripada mercon.
+
+Tapi ya sudahlah, pandangan orang memang beda-beda.
+
+> Oh iya, video merconnya saya akan upload nanti, ditunggu ya...
