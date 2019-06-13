@@ -7,7 +7,7 @@ draft: false
 type: page
 
 image: "/img/about-me.jpg"
-description: ""
+description: "Hello, Saya Dian. Salam kenal!"
 ---
 
 ![About Ardianta](/img/about-me.jpg)
