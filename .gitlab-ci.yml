@@ -9,16 +9,16 @@ stages:
 
 
 # Mirror Gitlab repository to Github
-mirroring:
-  stage: deploy
-  only:
-    - master
-  before_script:
-    - git config user.email "ardianta_pargo@yahoo.co.id"
-    - git config --global user.name "ardianta"
-  script:
-    - git remote add github https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/blog.git
-    - git push github --all    
+# mirroring:
+#   stage: deploy
+#   only:
+#     - master
+#   before_script:
+#     - git config user.email "ardianta_pargo@yahoo.co.id"
+#     - git config --global user.name "ardianta"
+#   script:
+#     - git remote add github https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/blog.git
+#     - git push github --all    
 
 # Deploy to github pages  
 github_pages:
