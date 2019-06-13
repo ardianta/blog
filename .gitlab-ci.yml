@@ -7,7 +7,6 @@ before_script:
 stages:
   - deploy
 
-
 # Deploy to github pages  
 github_pages:
   stage: deploy
