@@ -32,9 +32,9 @@ github_pages:
     - hugo --minify # build site
     - mv /tmp/.git public/.git # restore .git
     - cd public
-    - git add -A
     - git config user.email "ardianta_pargo@yahoo.co.id"
     - git config --global user.name "ardianta"
+    - git add -A
     - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
     - git push
   after_script:
