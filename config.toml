@@ -15,3 +15,31 @@ disqusShortname = "ardianta"
 
     # Description/subtitle for homepage
     description = "Hello, saya Dian. Blog ini belum jadi. Sabar ya..."
+
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    wight = 1
+  [[menu.main]]
+    identifier = "art"
+    name = "Art"
+    url = "https://ardiantapargo.deviantart.com/"
+    wight = 2
+  [[menu.main]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/ardiantapargo"
+    wight = 3
+  [[menu.main]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/ardianta"
+    wight = 4
+  [[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "http://feeds.feedburner.com/ardianta"
+    wight = 5

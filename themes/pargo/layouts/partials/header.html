@@ -9,21 +9,12 @@
                 </h1>
 
                 <ul class="nav justify-content-center">
-                    <li class="nav-item">
-                        <a class="nav-link" href="/about">About</a>
+                    {{ $currentPage := . }}
+                    {{ range .Site.Menus.main }}
+                    <li class='nav-item {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}'>
+                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://ardiantapargo.deviantart.com/" target="blank">Art</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/ardiantapargo" target="blank">Twitter</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://github.com/ardianta" target="blank">Github</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="http://feeds.feedburner.com/ardianta" target="blank">RSS</a>
-                    </li>
+                    {{ end }}
                 </ul>
             </div>
         </div>
