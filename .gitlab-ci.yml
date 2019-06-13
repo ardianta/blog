@@ -27,3 +27,4 @@ github_pages:
   after_script:
     - cd ..
     - rm -rf public
+    - exit 0 # build success
