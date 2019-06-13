@@ -22,6 +22,4 @@ github_pages:
     - git config user.email $GIT_EMAIL
     - git config --global user.name $GIT_USER
     - git add -A
-    - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
-    - git push
-    - (exit 0)
+    - git diff-index --quiet HEAD || (git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID" && git push)
