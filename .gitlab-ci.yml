@@ -24,4 +24,4 @@ github_pages:
     - git add -A
     - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
     - git push
-    - exit 1
+    - exit 0
