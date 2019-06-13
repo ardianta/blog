@@ -20,7 +20,7 @@ github_pages:
     - mv /tmp/.git public/.git # restore .git
     - cd public
     - git config user.email $GIT_EMAIL
-    - git config --global $GIT_USER
+    - git config --global user.name $GIT_USER
     - git add -A
     - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
     - git push
