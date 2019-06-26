@@ -7,7 +7,7 @@ draft: false
 type: post
 
 tags:
-    - opini
+    - Ide
 
 image: ""
 description: "Kamu suka ngoceh, ngebacot, nyuruh orang gini-gitu, ngomong itu memang gampang!"
