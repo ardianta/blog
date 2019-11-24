@@ -1,4 +1,4 @@
-image: registry.gitlab.com/pages/hugo:latest
+image: registry.gitlab.com/pages/hugo:0.55.4
 
 before_script:
   - hugo version
