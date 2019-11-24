@@ -2,7 +2,6 @@ image: registry.gitlab.com/pages/hugo:latest
 
 before_script:
   - hugo version
-  - git --version
 
 pages:
   script:
