@@ -4,22 +4,11 @@ before_script:
   - hugo version
   - git --version
 
-stages:
-  - deploy
-
-# Deploy to github pages  
-github_pages:
-  stage: deploy
-  only:
-    - master
+pages:
   script:
-    - git clone --depth 1 https://ardianta:$GITHUB_ACCESS_TOKEN@github.com/ardianta/ardianta.github.io.git public
-    - mv public/.git /tmp/.git # backup .git
-    - rm -rf public/* # clean old build
-    - hugo --minify # build site
-    - mv /tmp/.git public/.git # restore .git
-    - cd public
-    - git config user.email $GIT_EMAIL
-    - git config --global user.name $GIT_USER
-    - git add -A
-    - git diff-index --quiet HEAD || (git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID" && git push)
+  - hugo --minify
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
