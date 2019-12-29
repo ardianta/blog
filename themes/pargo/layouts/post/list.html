@@ -18,7 +18,7 @@
 
                             {{ .Content }}
 
-                            {{ range (.Site.RegularPages.GroupByDate "2006") }}
+                            {{ range (.Data.Pages.GroupByDate "2006") }}
                             <table>
                                 <tr>
                                     <td colspan="3">
