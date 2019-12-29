@@ -16,6 +16,11 @@ disqusShortname = "ardianta"
     # Description/subtitle for homepage
     description = "Hello, saya Dian. Blog ini belum jadi. Sabar ya..."
 
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
 
 [menu]
   [[menu.main]]
