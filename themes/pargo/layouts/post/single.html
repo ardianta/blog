@@ -18,7 +18,8 @@
                             <div class="post-header mb-3">
                                 <h2 class="post-title">{{ .Title | emojify }}</h2>
                                 <hr>
-                                <time class="text-secondary small" title="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                                <span class="text-secondary small">Update terakhir: </span>
+                                <time class="text-secondary small" title="{{ .Lastmod }}">{{ .Lastmod.Format "2 Jan 2006" }}</time>
                             </div>
                             <div class="post-body">
                                 {{ .Content | emojify }}
