@@ -10,7 +10,8 @@ tags:
     - tag
 
 image: ""
-description: ""
+description: "Error dan masalah yang saya temukan saat upgrade Kubuntu 18.04 ke
+Kubuntu 20.04"
 ---
 
 Hari ini saya melakukan upgrade Ubuntu 18.04 ke 20.04, sebenarnya versi ini
