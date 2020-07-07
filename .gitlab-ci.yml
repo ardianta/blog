@@ -1,6 +1,7 @@
-image: registry.gitlab.com/pages/hugo_extended:latest
+image: registry.gitlab.com/pages/hugo:latest
 
 before_script:
+  - apk add --update --no-cache git
   - hugo version
 
 pages:
