@@ -1,0 +1,16 @@
+{{ if in .Destination "/static/" }}
+
+<!-- 12 is count of ../../static caracher -->
+{{ $new_file_path := substr .Destination 12 }}
+
+<!-- just for testing, you can delete this pre tag -->
+<pre>{{ $new_file_path }}</pre>
+
+<!-- render the image with tag -->
+<img class="img-fluid" src="{{ $new_file_path }}" />
+
+{{ else }}
+
+<img class="img-fluid" src="{{ .Destination }}" />
+
+{{ end }}
