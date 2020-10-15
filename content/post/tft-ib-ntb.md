@@ -49,14 +49,14 @@ Batray 0% gak bisa dicas.
 
 Mungkin karena kemarin lupa dicas seharian full.
 
-## Tugas Kelompok
+<!-- ## Tugas Kelompok
 
 Di acara ini, kita dibuatkan kelompok untuk membuat video.
 Hasilnya diupload ke instagram dengan hastag [#indonesiabijakntb](https://www.instagram.com/explore/tags/indonesiabijakntb/).
 
 ...dan berikut ini adalah ahsil karya kelompok saya.
 
-{{< instagram BqlTMSoACn8 >}}
+-->
 
 ## Akhir kata...
 
