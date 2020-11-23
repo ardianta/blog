@@ -97,7 +97,7 @@ mimpi dan fantasi yang tanpa batas itu.
 
 Lebih baik pergi keluar dan mengamati langit.
 
-{{< instagram BtuyeLrgArj >}}
+<!-- {{</* instagram BtuyeLrgArj */>}} -->
 
 Lagipula ini juga dapat melatih kemampuan
 fotografi saya yang masih amatiran.
