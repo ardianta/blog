@@ -1,5 +1,5 @@
 ---
-title: "Fix: Hugo Instagram Embed Shortcode"
+title: "[Solved] Fix: Hugo Instagram Embed Shortcode"
 slug: fix-hugo-instagram
 date: 2020-11-24T02:20:03+08:00
 draft: false
@@ -21,9 +21,9 @@ Errornya seperti ini:
 
 ![error embed instagram](/img/fix-hugo-instagram/error-embed-instagram.png)
 
-Kalau diperhatikan, error ini disebabkan karena Github Action tidak bisa mengakses API OEmbed Instagram.
+Kalau diperhatikan, error ini disebabkan karena Github Action tidak bisa mengakses API oEmbed Instagram.
 
-Jika saya buka link OEmbed secara manual dari browser, link tersebut bisa memberikan data JSON untuk embed post instagram.
+Jika saya buka link oEmbed secara manual dari browser, link tersebut bisa memberikan data JSON untuk embed post instagram.
 
 Tapi entah mengapa gagal di akses dari Github Action..
 
@@ -31,7 +31,7 @@ Hmmmm..
 
 Saya coba googling dan mencari solusi, akhirnya ketemu [issue #7879](https://github.com/gohugoio/hugo/issues/7879) di repository Hugo.
 
-Sepertinya Facebook sudah menutup akses untuk mengakses OEmbed Instagram secara publik.
+Sepertinya Facebook sudah menutup akses untuk mengakses oEmbed Instagram secara publik.
 
 Mau tidak mau kita dipaksa menggunakan APPID dan Client Token.
 
@@ -92,7 +92,7 @@ Karena mungkin saja link gambar yang didapat dari data JSON ini memiliki session
 
 Ahh.. yang penting saat ini masalah saya terselesaikan.
 
-— update 24/11/2020 02:46 AM –
+## Update — 24/11/2020 02:46 AM
 
 Setelah saya push ke Github dan deploy dengan Github Action, ternyata masih gagal. Huft..
 
@@ -110,3 +110,75 @@ Tapi kalau di localhost bisa.. hmm :thinking:
 Mulai ngatuk.. :sleepy:
 
 Besok dilanjutkan.
+
+## Update — 24/11/2020 01:06 PM
+
+Setelah memberikan suara di [issue #7879](https://github.com/gohugoio/hugo/issues/7879) ada yang merespon, bahwa menggunakan *hack* parameter `__a=1` sudah tidak berfungsi lagi.
+
+Berdasarkan infromasi yang saya dapatkan..
+
+Pada tanggal 24 Oktober lalu, akses API untuk oEmbed secara publik memang sudah tidak dibuka oleh Facebook.
+
+Satu-satunya cara adalah dengan memberikan APPID dan Client Token sebagai `access_token`.
+
+Setelah membaca [dokumentasi oEmbed](https://developers.facebook.com/docs/instagram/oembed/), akhirnya paham cara pakainya.
+
+Pertama, kita butuh `access_token` yang terdiri dari APPID dan Client Token.
+
+Untuk APP ID, kita bisa dapatkan dari dashboard Facebook Developer.
+
+![app id](/img/fix-hugo-instagram/app-id.png)
+
+Untuk Client Token, bisa didapatkan dari Settings->Advanced->Security.
+
+![client token](/img/fix-hugo-instagram/client-token.png)
+
+Lalu kita bisa membuatnya menjadi `access_token` dengan format seperti ini:
+
+```txt
+<APP_ID>|<client_token>
+```
+
+Contoh:
+
+```txt
+152759108115365|1aa308265ed111113356557778886
+```
+
+Untuk mengetes token ini, bisa dilakukan di [Facebook Debugger](https://developers.facebook.com/tools/debug/accesstoken/).
+
+Contoh hasil tesnya:
+
+![debug token](/img/fix-hugo-instagram/debug-token.png)
+
+Dengan `access_token` ini, serakang kita bisa akses oEmbed API milik Facebook. Pastikan di dashboard app Facebook, oEmbed dalam keadaan aktif.
+
+![oembed aktif](/img/fix-hugo-instagram/oembed-aktif.png)
+
+Cara mengaktifkannya:
+
+Buka saja dashboard lalu klik ***set up*** pada oEmbed.
+
+Terakhir..
+
+Kita bisa buat shortcode instagram untuk Hugo, jadinya seperti ini:
+
+```go
+{{- $pc := .Page.Site.Config.Privacy.Instagram -}}
+{{- if not $pc.Disable -}}
+{{- if $pc.Simple -}}
+{{ template "_internal/shortcodes/instagram_simple.html" . }}
+{{- else -}}
+{{ $id := .Get 0 }}
+{{ $access_token := "<APP_ID>|<client_token>" }}
+{{ $hideCaption := cond (eq (.Get 1) "hidecaption") "1" "0" }}
+{{ with getJSON "https://graph.facebook.com/v9.0/instagram_oembed?url=https://www.instagram.com/p/" $id "/&hidecaption=" $hideCaption "&access_token=" $access_token }}
+    {{ .html | safeHTML }}
+{{ end }}
+{{- end -}}
+{{- end -}}
+```
+
+Jangan lupa ganti `<APP_ID>` dan `<client_token>`.
+
+Akhirnya, sekarang build dan deploy website saya menjadi lancar.
