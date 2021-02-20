@@ -2,7 +2,7 @@
 title: "Sakit Pertama di 2021"
 slug: sakit-2021
 date: 2021-02-20T17:22:26+08:00
-draft: true
+draft: false
 
 type: post
 
