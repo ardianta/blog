@@ -33,3 +33,7 @@ Tapi tentang, saya sudah ketemu solusinya:
 ![setting-mousewheel-firefox](/img/figma-scroll-firefox/setting-mousewheel-firefox.png)
 
 Sekarang saat kita mengekan tombol Ctrl+Scroll mouse, maka kecepatannya akan bertambah cepat.
+
+Jika ingin lebih cepat lagi, naikin aja nilai `delta_multipier_y` jadi lebih tinggi.
+
+Solusi ini saya dapatkan dari forum https://spectrum.chat/figma/feature-requests/zooming-speed-with-ctrl-mouse-scroll-on-firefox-differs-from-googles-chrome~250fac37-73e9-4319-b38a-297bf4db5843
