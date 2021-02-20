@@ -1,4 +1,4 @@
-image: registry.gitlab.com/pages/hugo/hugo_extended:0.73.0
+image: registry.gitlab.com/pages/hugo/hugo_extended:0.80.0
 
 before_script:
   - apk add --update --no-cache git
