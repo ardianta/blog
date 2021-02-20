@@ -11,4 +11,6 @@ tags:
 
 image: ""
 description: ""
+
+typora-root-url: ../../static
 ---
