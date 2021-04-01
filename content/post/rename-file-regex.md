@@ -61,7 +61,7 @@ Maka perintahnya:
 rename -n 's/(\[w+]) (Black Clover) BD - (\d.)/$2 - $3' *.mkv
 ```
 
-Penjelasan tentang regex-nya bisa dicek di [regexr.com/5prb7](regexr.com/5prb7).
+Penjelasan tentang regex-nya bisa dicek di [regexr.com/5prb7](https://regexr.com/5prb7).
 
 Hasil outputnya:
 
