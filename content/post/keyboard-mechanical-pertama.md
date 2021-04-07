@@ -2,7 +2,7 @@
 title: "Keyboard Mechanical Pertama Saya"
 slug: keyboard-mechanical-pertama
 date: 2021-04-07T16:23:09+08:00
-draft: true
+draft: false
 
 type: post
 
