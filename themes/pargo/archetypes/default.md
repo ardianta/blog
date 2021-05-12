@@ -8,4 +8,6 @@ type: page
 
 image: ""
 description: ""
+
+typora-root-url: ../../static
 ---
