@@ -1,0 +1,52 @@
+baseurl: 'https://www.ardianta.com'
+title: Ardianta
+theme: pargo
+googleAnalytics: UA-54154424-1
+disqusShortname: ardianta
+
+permalinks:
+  post: '/blog/:slug/'
+  page: '/:slug/'
+
+params:
+  author: Dian
+  description: 'Hello, saya Dian. Blog ini belum jadi. Sabar ya...'
+
+frontmatter:
+  date:
+    - date
+    - publishDate
+    - lastmod
+  lastmod:
+    - ':git'
+    - lastmod
+    - date
+    - publishDate
+  publishDate:
+    - publishDate
+    - date
+  expiryDate:
+    - expiryDate
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: art
+      name: Art
+      url: 'https://ardiantapargo.deviantart.com/'
+      weight: 2
+    - identifier: twitter
+      name: Twitter
+      url: 'https://twitter.com/ardiantapargo'
+      weight: 3
+    - identifier: github
+      name: Github
+      url: 'https://github.com/ardianta'
+      weight: 4
+    - identifier: rss
+      name: RSS
+      url: 'http://feeds.feedburner.com/ardianta'
+      weight: 5
