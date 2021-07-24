@@ -195,10 +195,9 @@ Jadi, berikut ini kode untuk shortcode instagram miliki saya:
 ```twig
 {{ $id := .Get 0 }}
 {{ $hideCaption := cond (eq (.Get 1) "hidecaption") "1" "0" }}
-{{ $maxWidth := cond (eq (.Get 2) "maxwidth") "1" "0"}}
 
 {{ if not .Site.IsServer }}
-{{ with getJSON "https://api.instagram.com/oembed/?url=https://www.instagram.com/p/" $id "/&hidecaption=" $hideCaption "&maxwidth=" $maxWidth }}
+{{ with getJSON "https://api.instagram.com/oembed/?url=https://www.instagram.com/p/" $id "/&hidecaption=" $hideCaption }}
     {{ .html | safeHTML }}
 {{ end }}
 {{ else }}
