@@ -192,7 +192,7 @@ Tapi saya coba melakukan embed langsung dari endpoint instagram.
 
 Jadi, berikut ini kode untuk shortcode instagram miliki saya:
 
-```twig
+```html
 {{ $id := .Get 0 }}
 {{ $hideCaption := cond (eq (.Get 1) "hidecaption") "1" "0" }}
 
