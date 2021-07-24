@@ -1,7 +1,7 @@
 ## Ardianta Blog
 
 [![pipeline status](https://gitlab.com/ardianta/blog/badges/master/pipeline.svg)](https://gitlab.com/ardianta/blog/commits/master)
-[![Hugo version](https://img.shields.io/badge/hugo-v0.73.0-ff69b4.svg)](http://gohugo.io/)
+[![Hugo version](https://img.shields.io/badge/hugo-v0.86.0-ff69b4.svg)](http://gohugo.io/)
 
 This is my blog's source code. Sorry, I don't accept pull request, because
 this repository is [mirrored from Gitlab](https://gitlab.com/ardianta/blog/). But, feel free
@@ -9,7 +9,7 @@ to [report any issue](https://github.com/ardianta/blog/issues).
 
 ## Requirements
 
-You need to install Hugo `0.73.0` to build and run this blog
+You need to install Hugo `0.86.0` to build and run this blog
 
 ## Build
 
