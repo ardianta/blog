@@ -1,5 +1,5 @@
-public
-resources
-node_modules
-_vendor
+public/
+resources/
+node_modules/
+_vendor/
 .directory
