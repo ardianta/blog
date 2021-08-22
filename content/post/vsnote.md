@@ -134,7 +134,7 @@ Maka perubahan atau catatan akan otomatis disimpan ke dalam repository Git.
 
 ## Kendala yang dihadapi
 
-Saat menjalanakan scan fodler, saya mendapatkan error seperti ini:
+Saat menjalanakan scan folder, saya mendapatkan error seperti ini:
 
 ![Permission error](/img/vsnote/permission-error.png)
 
