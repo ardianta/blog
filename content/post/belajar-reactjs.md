@@ -62,7 +62,7 @@ Sebenarnya bisa langsung pakai CDN, tapi biar keren dikit kita pakai ini aja.
 
 ![Instalasi create-react-app](/img/react/instalasi-create-react.png)
 
-Setelah itu, baru kita bisa baut project React.
+Setelah itu, baru kita bisa buat project React.
 
 Perintahnya:
 
