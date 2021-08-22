@@ -66,3 +66,8 @@ Nah, di sana kode cabang adalah `2130101` kita ambil 4 angka terakhir untuk diis
 Selanjutnya tinggal isi data pribadi seperti nama, alamat, email, no telepon, dan jangan lupa untuk centang *“I attest that I am the owner and have..”*.
 
 Berikutnya kita akan perlihatkan, rangkuman dari data yang diinputkan. Pastikan tidak ada yang salah, terutama nomer rekeneing. Silahkan recheck dengan teliti.
+
+## -- Update 22 Agustus 2021 --
+
+Pembayaran sudah berhasil dilakukan dengan setup di atas. Saya udah menerima
+pembayaran dari Upwork dan langsung dikonversi ke rupiah.

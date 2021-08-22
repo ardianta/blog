@@ -22,7 +22,7 @@ sudo apt install rename
 ```
 
 Setelah itu masuk ke folder tempat semua file berada, lalu jalankan 
-perintah rename dengna regex.
+perintah rename dengan regex.
 
 ```bash
 rename -n 's/<regex untuk search file>/<regex untuk replace>/' *.ext
