@@ -40,7 +40,7 @@ Tetapi untuk hal yang bersifat private, saya tidak akan sebar.
 
 ## Giamana Cara Menggunakan VSNote?
 
-Cara menggunakanannya sama seperti menulis markdown seperti biasa. Akan tetapi
+Cara menggunakannya sama seperti menulis markdown seperti biasa. Akan tetapi
 ada beberapa setup yang perlu dilakukan saat baru pertama kali menginstalnya.
 
 Seperti:
