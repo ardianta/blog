@@ -71,7 +71,7 @@ Bawangnya ada di ending. Di tengah-tengah juga ada bawangnya, cuma rasanya mungk
 
 Bawang: 🧅🧅🧅
 
-Bagi yang pernah punya mengalaman dan trauma gempa, mungkin anime ini akan
+Bagi yang pernah punya pengalaman dan trauma gempa, mungkin anime ini akan
 membuatmu menangis hehe.
 
 ## 6. Nihon Chinbotsu 2020
@@ -81,17 +81,22 @@ Bawang: 🧅🧅
 Hampir sama seperti *Tokyo Magnitude 8.0*, hanya saja bawangnya terdapat di episode 1.
 Sisanya survival dan agak aneh sih menurut saya.
 
+Karena ceritanya membahas sekte kepercayaan dan tersa tidak realistis.
+
 ## 7. Fumetsu no Anata e
 
 Bawang: 🧅🧅🧅
 
-Anime ini banyak kandungan bawangnya dan ceritanya menarik.
+Anime ini banyak kandungan bawangnya dan ceritanya menarik. Terutama saat
+arch kematian Gugu, di sana kebanyakan bawang.
 
 ## 8. Violet Evergarden
 
 Bawang: 🧅🧅🧅
 
-Saat nonton movie Violet Evergarden di Bioskop, saya kurang bisa menikmati rasa bawangnya. Mungkin karena rame dan gak bawa tisu hehe.
+Saat nonton movie Violet Evergarden di Bioskop, 
+saya kurang bisa menikmati rasa bawangnya. 
+Mungkin karena rame dan gak bawa tisu hehe.
 
 Tapi kalau nonton sendirian, yah bisa terasa bawangnya.
 
@@ -99,9 +104,18 @@ Tapi kalau nonton sendirian, yah bisa terasa bawangnya.
 
 Bawang: 🧅🧅
 
+Kisah cinta LDR yang terpisah dimensi. Tapi dibagian akhir merkea bisa bertmu
+walau sesaat.
+
+Saya suka anime ini, karena bisa menikmati grafiknya dan tentunya pemandangan
+langit dari setting cerita sangat menarik.
+
 ## 10. Tenki no Ko
 
 Bawang: 🧅
+
+Karena saya suka mengamati langit, jari anime ini wajib ditonton. Awal nonton
+dibioskop, bawangnya tidak terlalu terasa.
 
 ## 11. Wolf Children
 
@@ -114,6 +128,14 @@ Bawang: 🧅
 ## 13. I Want to Eat Your Pancreas
 
 Bawang: 🧅🧅🧅
+
+## 14. Koutetsujou no Kabaneri
+
+Bawang: 🧅🧅
+
+Anime zombie-zombiean dan kereta ~~tayo~~. Ceritanya cukup menarik pertarungannya
+seru. Hampir mirip dengan konsep cerita Attack on Titan. Namun, setting
+tempat di anime ini lebih realistis.. yakni di Jepang.
 
 ## Akhir Kata..
 
