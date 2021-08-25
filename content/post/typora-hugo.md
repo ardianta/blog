@@ -29,7 +29,7 @@ Mari kita mulai..
 
 ## Konfigurasi Front-matter di Archetype
 
-Berikut ini konfigurasi `archetype/post.md` milik saya.
+Berikut ini konfigurasi `archetypes/post.md` milik saya.
 
 ```yaml
 ---
@@ -74,7 +74,7 @@ typora-root-url: ./
 typora-copy-images-to: ./
 ```
 
-Ini karena page bundle menyimpan gambar di satu folder dengan file page tersebut.
+Ini karena page bundle menyimpan gambar di satu folder dengan file page kontenya.
 
 Saya sendiri tidak menggunakan page bundle, karena tidak ingin mencampurkan konten dengan gambar, biar tidak berantakan hehe.
 
