@@ -4,9 +4,13 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 before_script:
+  - apk add --update --no-cache git
   - hugo version
 
-pages:
+stages:
+  - deploy
+
+deploy:
   script:
   - hugo --minify --enableGitInfo
   artifacts:
