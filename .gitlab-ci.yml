@@ -1,13 +1,9 @@
-#image: registry.gitlab.com/pages/hugo/hugo_extended:latest
-
-image: alpine:edge
+image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 before_script:
-  - apk -U upgrade
-  - apk add --update --no-cache go git hugo
   - hugo version
 
 pages:
