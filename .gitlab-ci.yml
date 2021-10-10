@@ -7,9 +7,6 @@ before_script:
   - apk add --update --no-cache git
   - hugo version
 
-stages:
-  - deploy
-
 deploy:
   script:
   - hugo --minify --enableGitInfo
