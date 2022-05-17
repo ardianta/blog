@@ -36,7 +36,7 @@ Berikut ini konfigurasi `archetypes/post.md` milik saya.
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 slug: {{ .BaseFileName }}
 date: {{ .Date }}
-draft: true
+draft: false
 
 type: post
 

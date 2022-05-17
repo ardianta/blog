@@ -2,7 +2,7 @@
 title: "8 Tempat Nonton Anime Secara Legal di Indonesia"
 slug: anime-legal-indonesia
 date: 2020-10-14T18:38:56+08:00
-draft: true
+draft: false
 
 type: post
 
@@ -68,7 +68,8 @@ Menurut saya, lebih enak Sushiroll, karena biaya langanannya juga terjangkau sek
 
 ## 6. Crunchyroll
 
-Crunchyroll ini juga sama seperti Sushiroll. Hanya saja Suhiroll buatan orang indonesia, sedangkan Crunchyroll buatan orang luar. Pilihan anime di Crunchyroll juga beragam dan banyak.
+Crunchyroll ini juga sama seperti Sushiroll. Hanya saja Suhiroll buatan orang 
+indonesia, sedangkan Crunchyroll buatan orang luar. Pilihan anime di Crunchyroll juga beragam dan banyak.
 
 
 
@@ -88,4 +89,8 @@ Saya hanya subscribe Muse Indonesia dan Muse Asia. Muse Indonesia, untuk anime d
 
 ## 8. Amazon Prime
 
+TODO
+
 ## Akhir Kata..
+
+TODO

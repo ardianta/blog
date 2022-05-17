@@ -65,7 +65,7 @@ di Petanikode:
 
 ```yaml
 ---
-draft: true
+draft: false
 date: {{ .Date }}
 updated: {{ .Date }}
 type: post

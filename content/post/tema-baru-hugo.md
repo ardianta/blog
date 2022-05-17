@@ -48,7 +48,7 @@ ini isi file `archetypes/default.md`:
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 slug: {{ .BaseFileName }}
 date: {{ .Date }}
-draft: true
+draft: false
 
 meta:
     image: ""
