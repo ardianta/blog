@@ -10,20 +10,27 @@ image: "/img/about-me.jpg"
 description: "Hello, Saya Dian. Salam kenal!"
 ---
 
-![About Ardianta](/img/about-me.jpg)
+Halo, salam kenal.
 
-Hello, nama saya **Ahmad Muhar Dian Lasmita**, disingkat ARDIANTA.
-Sering dipanggil **Dian** (di rumah) dan **Pargo** (di sekolah).
+Terimakasih sudah menyempatkan diri untuk membaca about me.
 
-<!-- Pengguna GNU/Linux sejak tahun 2011 hingga saat ini. Sehari-hari menggunakan GNU/Linux untuk pemrograman, desain, dan menulis. -->
+Ini artinya, kamu tertarik untuk mengenal lebih dekat tentang saya.
 
-Saat ini, saya adalah seorang mahasiswa Teknik Informatika di 
-salah satu perguruan tinggi swasta di kota Mataram.
+Saya sebenarnya seorang introvert, ini berdasarkan hasil tes.
 
-Pernah bersekolah di [SMK Negeri 2 Kuripan](http://www.smkn2kuripan.sch.id/) dengan jurusan TKJ
-(Teknik Komputer & Jaringan).
+Saya suka belajar hal-hal baru dan membagikannya dalam tulisan.
 
-Kontak yang bisa dihubungi:
+Saya mendefinisikan diri saya sebagai seorang **Lifelong Learning**
+atau belajar sepanjang hayat.
 
-- Email: <a href="mailto:dian@petanikode.com">dian@petanikode.com</a>
-- WA/Telegram: +6287866866694
+Saya pengguna setia Linux sejak Juni 2011.
+
+![Screenshot Debian 2011](/img/about/debian-2011.jpg)
+
+Hingga saat ini masih pakai Linux.
+
+Bidang dan keahlian yang saat ini saya minati: Programming, Desain, UI/UX Design,
+Bisnis, Investasi, Marketing, dll.
+
+Jika tertarik berkenalan lebih jauh, kamu bisa kirim email ke saya
+di alamat `dian@petanikode.com`.
