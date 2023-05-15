@@ -15,10 +15,33 @@ description: "Cara rename banyak file dengan Regex di Linux"
 typora-root-url: ../../static
 ---
 
+Di Linux, kita bisa rename banyak file dengan Regex.
+
+Program yang digunakan adalah:
+
+- `rename`
+- `prename`
+
 Install dulu program rename:
 
 ```bash
 sudo apt install rename
+```
+
+Note: sebenarnya program `rename` ada yang dari `util-linux` dan `File::Rename` (Perl),
+kita akan pakai yang dari Perl.. karena dia support regex.
+
+Coba baca issue ini:
+
+- https://askubuntu.com/a/1024963
+- https://askubuntu.com/a/956020
+
+Jika kamu menggunakan feodra, bisa pakai `prename`.
+
+Install dengan perintah:
+
+```bash
+sudo dnf install prename
 ```
 
 Setelah itu masuk ke folder tempat semua file berada, lalu jalankan 
