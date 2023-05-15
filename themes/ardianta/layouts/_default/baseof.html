@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class="selection:bg-indigo-600/10">
+        {{- partial "navbar.html" . -}}
+        {{- partial "header.html" . -}}
+        
+        <div class="container mx-auto max-w-6xl">
+        {{- block "main" . }}{{- end }}
+        </div>
+
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

@@ -1,0 +1,36 @@
+<head>
+  <title>{{ .Title }}</title>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <!-- SEO TAG -->
+  {{ template "_internal/schema.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+  <meta content='summary_large_image' name='twitter:card' />
+  <meta content='@ardiantapargo' name='twitter:site' />
+  <meta content='@ardiantapargo' name='twitter:creator' />
+  <meta property='og:image' content='{{ .Site.BaseURL }}{{ .Params.Image }}' />
+  <meta content='id_ID' property='og:locale' />
+  <meta content='ms_MY' property='og:locale:alternate' />
+  <meta content='en_US' property='og:locale:alternate' />
+  <!-- /SEO TAG -->
+
+  <meta name="p:domain_verify" content="045746d704fe9ae94f6f3e87acc80385" />
+
+  <link rel="icon" href="/favicon.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+
+  {{ if site.IsServer }}
+  <script src="https://cdn.tailwindcss.com?plugins=typography,line-clamp"></script>
+  <style>
+    body {
+      font-family: 'Jost', sans-serif;
+    }
+  </style>
+  {{ end }}
+</head>

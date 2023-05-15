@@ -3,3 +3,4 @@ resources/
 node_modules/
 _vendor/
 .directory
+.hugo_build.lock
