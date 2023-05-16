@@ -3,6 +3,7 @@
 <article class="py-16 px-8 max-w-3xl mx-auto">
   <hgroup class="mb-8">
     <h1 class="text-3xl md:text-5xl font-bold mb-4">{{ .Title }}</h1>
+    <p class="text-slate-400">{{ .Lastmod.Format "02 Jan 2006" }} &middot; {{ .ReadingTime }} min read</p>
   </hgroup>
 
   <div class="prose prose-slate lg:prose-xl">

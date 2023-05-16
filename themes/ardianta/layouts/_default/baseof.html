@@ -3,7 +3,10 @@
     {{- partial "head.html" . -}}
     <body class="selection:bg-indigo-600/10">
         {{- partial "navbar.html" . -}}
+        
+        {{ if .IsHome }}
         {{- partial "header.html" . -}}
+        {{ end }}
         
         <div class="container mx-auto max-w-6xl">
         {{- block "main" . }}{{- end }}

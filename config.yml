@@ -1,11 +1,10 @@
 baseurl: 'https://www.ardianta.com'
-title: Ardianta
+title: Ahmad Muhardian
 theme: ardianta
 googleAnalytics: UA-54154424-1
 disqusShortname: ardianta
 
 permalinks:
-  post: '/blog/:slug/'
   page: '/:slug/'
 
 params:

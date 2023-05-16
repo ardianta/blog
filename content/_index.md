@@ -1,12 +1,12 @@
 ---
-title: "Ardianta"
+title: "Ahmad Muhardian | Web Developer & Creator"
 date: 2018-01-25T20:12:09+08:00
 draft: false
 
 type: page
 
 image: ""
-description: "Blog ini adalah blog pribadi yang isinya berupa catatan bebas. Namun, sepertinya akan lebih banyak catatan tentang dunia IT."
+description: "Ahmad Muhardian is a Web Developer and Craetor based on Lombok, Indonesia."
 ---
 
 Blog ini adalah blog pribadi tempat mencatat segala hal yang ingin saya catat.

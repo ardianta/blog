@@ -1,5 +1,5 @@
 ---
-title: "All Blog Posts"
+title: "Blog: Opinion and Notes from Dian"
 date: 2018-01-25T20:12:09+08:00
 draft: false
 
