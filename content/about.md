@@ -25,7 +25,7 @@ Bidang utama yang saya geluti saat ini adalah IT, lebih spesifiknya di Software 
 Walaupun begitu, saya terbuka untuk belajar hal baru di luar bidang tersebut.
 Curiosity mendorong saya untuk belajar apa pun itu, walaupun *useless* dan nggak akan dipakai di kerjaan.
 
-Menurut saya, walalupun *useless* belajar itu:
+Menurut saya, walaupun *useless* belajar itu:
 
 - Bukan karena mau dapat nilai saat ujian;
 - Bukan karena akan dipakai di kerjaan;
