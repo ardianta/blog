@@ -9,6 +9,10 @@
   <div class="prose prose-slate lg:prose-xl">
     {{ .Content | emojify }}
   </div>
+
+  <footer class="mt-16">
+    {{ template "post/_disqus.html" . }}
+  </footer>
 </article>
 
 {{ end }}
