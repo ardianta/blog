@@ -37,7 +37,7 @@ Setelah itu, hubungkan HP dengan Laptop dengan kabel data.
 
 Ketik `fastboot devices`, jika di sana ada muncul seperti ini:
 
-![fastboot-device](../../static/img/flash-android-linux/fastboot-device.png)
+![fastboot-device](/img/flash-android-linux/fastboot-device.png)
 
 Maka ini artinya, device kita sudah terdeteksi.
 
@@ -57,7 +57,7 @@ fastboot boot nama-file-recovery.img
 
 Contoh outputnya akan seperti ini:
 
-![flash](../../static/img/flash-android-linux/flash.png)
+![flash](/img/flash-android-linux/flash.png)
 
 Pada tahapan ini, kita sudah melakukan flash recovery image ke HP. Nah, dari sini kita bisa melakukan factory reset dan menghapus semua data yang ada di HP.
 
@@ -65,11 +65,11 @@ Setelah itu, kita akan menginstal Firmware dan ROM dari LineageOS dengan `adb`.
 
 Masih dalam mode recovery lineageos, masuk ke menu **Apply Update** > **Apply from ADB**. Sehingga device siap menerima file zip dari `adb sideload` .
 
-![Selection_234](../../static/img/flash-android-linux/lineageosrecovery.png)
+![Selection_234](/img/flash-android-linux/lineageosrecovery.png)
 
 Jika device dalam status siap menerima `adb sideload`, maka kita bisa install Firmware dan ROM.
 
-![install-firmware-dan-rom](../../static/img/flash-android-linux/install-firmware-dan-rom.png)
+![install-firmware-dan-rom](/img/flash-android-linux/install-firmware-dan-rom.png)
 
 Setelah itu, kita tinggal reboot HP-nya dengan perintah:
 
