@@ -2,12 +2,12 @@
 title: "New Hugo Theme 2023: Template Baru untuk Web Personal Saya"
 slug: new-theme-2023
 date: 2023-05-16T14:05:05+08:00
-draft: true
+draft: false
 
 type: post
 
 tags:
-    - tag
+    - Hugo
 
 image: "/img/new-theme-2023/before-after.avif"
 description: "Sebenarnya sudah lama saya ingin ganti template web personal. Tapi nggak kunjung-kunjung dikerjakan. Malah keasikan ngerjain project yang lain, hehe."
