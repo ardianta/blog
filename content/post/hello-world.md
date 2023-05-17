@@ -10,7 +10,7 @@ tags:
     - Blog
     - Hugo
 
-image: "/img/2018/goal-2018.png"
+image: ""
 description: "Tulisan pertama saya di blog baru"
 ---
 

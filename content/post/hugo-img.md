@@ -42,4 +42,4 @@ ln -s static/img img
 
 Dan hasilnya...
 
-![Preview markdown pada VS Code](/img/hugo/img/markdown-preview.png)
+![Preview markdown pada VS Code](/img/hugo-img/markdown-preview.png)
