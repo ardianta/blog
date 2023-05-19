@@ -1,0 +1,28 @@
+{{ define  "main" }}
+<section class="py-16 px-8 lg:px-0 max-w-4xl mx-auto">
+  <hgroup class="mb-16">
+    <p class="font-bold text-center text-indigo-600">Explore Project 🚀</p>
+    <h2 class="font-bold text-center text-2xl text-slate-700">I Built and Involved</h2>
+  </hgroup>
+
+  {{ $paginator := .Paginate (where .Site.Pages "Type" "project") 3 }}
+
+    {{ range $paginator.Pages }}
+    <div class="mb-24 flex flex-col-reverse md:flex-row justify-between items-center gap-8 md:gap-24">
+      <div class="text-slate-700">
+        <p class="font-medium text-lg">Website &middot; Full Stack</p>
+        <h3 class="font-bold text-4xl mb-8">{{ .Title }}</h2>
+        <p class="text-lg line-clamp-4">We provided convenience for users to access and make transactions through Kalla Friends application including the Customer Loyalty Program, Customer Referral Program, and providing news and information that users need.</p>
+        <a href="{{ .RelPermalink }}" class="inline-block mt-8 md:mt-16 px-8 py-2 rounded-full border border-indigo-600 text-indigo-600 font-medium hover:bg-indigo-600/10">Full Story</a>
+      </div>
+      <img src="/img/project/petanikode.avif" class="aspect-square rounded-3xl h-[360px] w-[360px]" alt="Petanikode">
+    </div>
+    {{ end }}
+
+  <div class="mt-16 flex justify-center">
+    {{ partial "pagination" . }}
+  </div>
+</section>
+
+
+{{ end }}

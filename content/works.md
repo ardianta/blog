@@ -4,9 +4,6 @@ slug: works
 date: 2017-12-17T19:51:02+08:00
 draft: false
 
-aliases:
-    - /project
-
 type: page
 
 image: ""
