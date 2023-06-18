@@ -1,6 +1,6 @@
 ## Ardianta Blog
 
-[![Hugo version](https://img.shields.io/badge/hugo-v0.86.0-ff69b4.svg)](http://gohugo.io/)
+[![Hugo version](https://img.shields.io/badge/hugo-v0.111.3-ff69b4.svg)](http://gohugo.io/)
 
 This is my blog's source code. Sorry, I don't accept pull request, because
 this repository is [mirrored from Gitlab](https://gitlab.com/ardianta/blog/). But, feel free
