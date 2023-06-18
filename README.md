@@ -8,7 +8,7 @@ to [report any issue](https://github.com/ardianta/blog/issues).
 
 ## Requirements
 
-You need to install Hugo `0.86.0` to build and run this blog
+You need to install Hugo `0.111.3` to build and run this blog
 
 ## Build
 
