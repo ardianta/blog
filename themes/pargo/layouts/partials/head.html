@@ -35,7 +35,7 @@
 <link rel="stylesheet" href="/css/style.css" />
 
 
-{{ if not .Site.IsServer }}
+{{ if hugo.IsProduction }}
 <link href='https://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'> 
 {{ template "_internal/google_analytics.html" . }}
 
