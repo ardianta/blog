@@ -14,8 +14,7 @@ tags:
     - Yarn
 
 image: "/img/angular/angular-yarn.png"
-description: "Angular default-nya menggunakan NPM. Apabila ingin mengganti package manager
-ke Yarn, cukup ketik perintah ini"
+description: "Angular default-nya menggunakan NPM. Apabila ingin mengganti package managerke Yarn, cukup ketik perintah ini"
 ---
 
 Angular default-nya menggunakan NPM. Apabila ingin mengganti package manager

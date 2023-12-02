@@ -4,3 +4,13 @@ node_modules/
 _vendor/
 .directory
 .hugo_build.lock
+
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+
+# OR only to exclude workspace cache
+.obsidian/workspace.json
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store

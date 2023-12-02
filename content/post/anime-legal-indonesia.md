@@ -26,7 +26,7 @@ Anime yang ditayangkan biasanya anime populer seperti Naruto dan One Piece. Anim
 
 ## 2. Bioskop
 
-> Biaya: 60rb/tiket
+> Biaya: 35~60rb/tiket
 
 Beberapa anime movie sering ditayang di Bioskop. Biasanya ditayangkan di CGV dengan harga tiket sekitar 60rb.
 
@@ -89,8 +89,8 @@ Saya hanya subscribe Muse Indonesia dan Muse Asia. Muse Indonesia, untuk anime d
 
 ## 8. Amazon Prime
 
-TODO
+Amazon Prime saya belum pernah coba hehe 😜
 
 ## Akhir Kata..
 
-TODO
+Kalau kamu tau tempat nonton anime legal lainnya, boleh share aja di kolom komentar!

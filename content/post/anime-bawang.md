@@ -10,8 +10,7 @@ tags:
     - Anime
 
 image: "/img/anime-bawang/anime-bawang.jpeg"
-description: "Beberapa Anime kadang membuat kita menangis, terharu, dan sedih.
-Saya menyebutnya Anime bawang."
+description: "Beberapa Anime kadang membuat kita menangis, terharu, dan sedih. Saya menyebutnya Anime bawang."
 
 typora-root-url: ../../static
 ---

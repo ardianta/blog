@@ -1,17 +1,15 @@
 ---
-title: "Masalah saat Upgrade ke Ubuntu 20.04 (Focal)"
+title: Masalah saat Upgrade ke Ubuntu 20.04 (Focal)
 slug: upgrade-ubuntu-focal
 date: 2020-07-06T18:04:46+08:00
 draft: false
-
 type: post
-
 tags:
-    - tag
-
+  - Linux
+  - Ubuntu
+  - Kubuntu
 image: ""
-description: "Error dan masalah yang saya temukan saat upgrade Kubuntu 18.04 ke
-Kubuntu 20.04"
+description: Error dan masalah yang saya temukan saat upgrade Kubuntu 18.04 ke Kubuntu 20.04
 ---
 
 Hari ini saya melakukan upgrade Ubuntu 18.04 ke 20.04, sebenarnya versi ini

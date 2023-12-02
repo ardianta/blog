@@ -1,20 +1,15 @@
 ---
-title: "Set-up Pembayaran Upwork ke Jenius"
+title: Set-up Pembayaran Upwork ke Jenius
 slug: upwork-jenius
 date: 2021-07-26T22:13:12+08:00
 draft: false
-
 type: post
-
 tags:
-    - Upwork
-    - Jenius
-    - Freelance
-
+  - Upwork
+  - Jenius
+  - Freelance
 image: ""
-description: "Cara setup Rekening Jenius atau Bank BTPN untuk pencairan dana di Upwork"
-
-typora-root-url: ../../static
+description: Cara setup Rekening Jenius atau Bank BTPN untuk pencairan dana di Upwork
 ---
 
 Sebelumnya, saya menggunakan Mandiri, tapi entah mengapa tidak berhasil dikirim. Saya lupa, apakah dulu pernah menghentikan menggunakan pembayaran ke mandiri atau bukan, yang jelas saat ini berberapa dolar yang saya hasilkan di Upwork masih nyangkut di sana hehe.

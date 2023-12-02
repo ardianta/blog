@@ -1,18 +1,15 @@
 ---
-title: "Template Baru untuk Lombokfoss"
+title: Template Baru untuk Lombokfoss
 slug: template-lombokfoss
 date: 2017-12-21T16:03:55+08:00
 draft: false
-
 tags:
-    - Blog
-    - Hugo
-
-image: "/img/lombokfoss/single.png"
-description: "Setelah membuat template untuk blog ini.
-Sekarang giliran blog Lombokfoss yang saya buatkan templatenya."
+  - Blog
+  - Hugo
+image: /img/lombokfoss/single.png
+description: Setelah membuat template untuk blog ini. Sekarang giliran blog Lombokfoss yang saya buatkan templatenya.
 ---
-
+ 
 Setelah membuat template untuk blog ini.
 Sekarang giliran blog Lombokfoss yang saya buatkan templatenya.
 

@@ -1,16 +1,13 @@
 ---
-title: "[Challenge 2018] Buku #1: Craetive Writing"
+title: "[Review] Buku Craetive Writing by A.S. Laksana"
 slug: buku-creative-writing
 date: 2018-02-19T20:15:20+08:00
 draft: false
-
 type: post
-
 tags:
-    - buku
-
-image: "/img/buku/creative-writing.jpg"
-description: "Buku ini berisi tips dan panduan menulis karya fiksi. Diawali dengan fundamental cara menulis yang benar. Lalu diajari cara menulis plot, dialog, narasi, dan lain-lain."
+  - buku
+image: /img/buku/creative-writing.jpg
+description: Buku ini berisi tips dan panduan menulis karya fiksi. Diawali dengan fundamental cara menulis yang benar. Lalu diajari cara menulis plot, dialog, narasi, dan lain-lain.
 ---
 
 Buku ini adalah buku pertama yang saya selesaikan tahun ini.
