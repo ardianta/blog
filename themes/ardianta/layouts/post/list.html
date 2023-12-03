@@ -1,8 +1,8 @@
 {{ define  "main" }}
 <section class="py-16 px-8 md:px-0">
   <hgroup class="mb-16">
-    <p class="font-bold text-center text-indigo-600">Blog ✨</p>
-    <h2 class="font-bold text-center text-2xl text-slate-700">Opinion and Notes</h2>
+    <p class="font-bold text-center text-indigo-600">Digital Garden 🌱</p>
+    <h2 class="font-bold text-center text-2xl text-slate-700">Personal Notes & Opinions</h2>
   </hgroup>
 
   {{ $paginator := .Paginate (where .Site.Pages "Section" "post") 6 }}
