@@ -29,7 +29,7 @@ Setiap anime akan saya berikan rating bawang 1--5 dengan emoji 🧅.
 
 Rating ini bersifat relatif dan subjektif, tergantung situasi dan kondisi emosi yang menonton.
 
-Rating yang saya berikan di sini berdasarkan pengalaman seniri hehe.
+Rating yang saya berikan di sini berdasarkan pengalaman sendiri hehe.
 
 Oke..
 
