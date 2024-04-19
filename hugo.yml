@@ -48,3 +48,10 @@ menu:
       name: RSS
       url: 'http://feeds.feedburner.com/ardianta'
       weight: 5
+
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
