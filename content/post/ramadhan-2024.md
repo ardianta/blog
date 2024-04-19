@@ -462,7 +462,9 @@ Bagun pagi itu nikmat, karena bisa mengamati sunrise.
 
 ![Daybreak frontline](https://i.ytimg.com/vi/emrt46SRyYs/maxresdefault.jpg)
 
-Ini saya kasi playlist youtube-nya: https://music.youtube.com/playlist?list=PL4rh3x2z8wVZ2LNp5GKvvLB0skVw9kSAU&si=d1z55DAtZFnBcwys sisanya cari sendiri aja di Youtube, banyak yang udah cover.
+Ini saya kasi playlist youtube-nya: [[Playlist DAYBREAK FRONTLINE]](https://music.youtube.com/playlist?list=PL4rh3x2z8wVZ2LNp5GKvvLB0skVw9kSAU&si=d1z55DAtZFnBcwys).
+
+Sisanya cari sendiri aja di Youtube, banyak yang udah cover.
 
 ## Apa Selanjutnya?
 
