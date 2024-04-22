@@ -18,7 +18,7 @@ typora-root-url: ../../static
 Hari ini saya menerima dua paket secara bersamaan. Paket pertama adalah Keyboard 
 yang saya pesan dari Shopee dan paket yang kedua adalah buku dari BBW Tokopedia.
 
-Rexus Legionare MX5.1, ini adalah keyboard mechanikal pertama yang saya miliki. 
+Rexus Legionare MX5.1, ini adalah keyboard mechanical pertama yang saya miliki. 
 Harganya murah sekitar 300 ribuan.
 
 Awalnya saya memesan yang brown switch, karena ingin coba mengetik dengan suara 
@@ -26,7 +26,7 @@ yang tidak ribut dan dapat feedback dari switch-nya.
 
 Akan tetapi, stok yang brown sudah habis. 
 
-Akhirnya ditelpon pihak toko untuk konfirmasi dan saya pun menggantinya dengan 
+Akhirnya ditelepon pihak toko untuk konfirmasi dan saya pun menggantinya dengan 
 red switch.
 
 Pengalaman mengetik dengan red switch sungguh luar biasa. 
@@ -35,7 +35,7 @@ menekan tombol. Cukup sentuh sedikit saja hehe.
 
 Saya merasa bersemangat mengetik dengan keyboard ini.. hoho this is spark joy.
 
-Keyboard ini sbenarnya untuk gaming, dilihat dari desainnya dengan lampu RGB 
+Keyboard ini sebenarnya untuk gaming, dilihat dari desainnya dengan lampu RGB 
 yang menarik. Namun, saya jarang main game. Lebih banyak ngetik dan nulis kode.
 
 Sepertinya keyboard ini akan banyak saya gunakan untuk ngetik kode dan artikel.

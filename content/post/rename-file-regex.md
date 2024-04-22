@@ -36,7 +36,7 @@ Coba baca issue ini:
 - https://askubuntu.com/a/1024963
 - https://askubuntu.com/a/956020
 
-Jika kamu menggunakan feodra, bisa pakai `prename`.
+Jika kamu menggunakan fedora, bisa pakai `prename`.
 
 Install dengan perintah:
 
@@ -68,7 +68,7 @@ list file sebagai berikut:
 [Anime] Black Clover BD - 05.mkv
 ```
 
-Kita ingin rename menjadi seprti ini:
+Kita ingin rename menjadi seperti ini:
 
 ```txt
 Black Clover - 01.mkv
@@ -102,4 +102,4 @@ Jika sudah yakin, opsi `-n` bisa dihapus untuk melakukan rename.
 rename 's/(\[w+]) (Black Clover) BD - (\d)/$2 - $3' *.mkv
 ```
 
-Selamat mecoba.
+Selamat mencoba.

@@ -17,7 +17,7 @@ Yey! pada [Lombokdev Meetup yang ke #006](https://lombokdev.github.io/Meetup006/
 ini saya menjadi pemateri dan membawakan tentang Hugo.
 
 Pada meetup kali ini, temanya seputar
-Web, Kecerdasaran Buatan (AI), dan IoT.
+Web, Kecerdasan Buatan (AI), dan IoT.
 
 Tidak ada yang bahas tentang Mobil atau Android Development.
 
@@ -49,7 +49,7 @@ Berikut susunan acaranya:
 ## Dokumentasi
 
 Untuk dokumentasi slide dan source code ada di Github: https://github.com/LombokDev/Meetup006
-Lalu untuk foto-fotonya ada beberapa tempat, biasanya diupload ke Flickr.
+Lalu untuk foto-fotonya ada beberapa tempat, biasanya di-upload ke Flickr.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fardianta.pargo%2Fposts%2F2627506583933364&width=500" width="500" height="567" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -58,12 +58,12 @@ Lalu untuk foto-fotonya ada beberapa tempat, biasanya diupload ke Flickr.
 Tentu acara ini masih banyak kekurangannya, baik dari pemateri dan pesertanya.
 Berikut ini beberapa catatan saya.
 
-- Saya sebagai pemateri belum menyapkan secara matang, sehingga saat menyampaikan terjadi kesalahan teknis seperti laptop tidak bisa terambung ke HDMI dan juga slide-nya terlalu sedikit dan mungkin audiance-nya belum begitu paham dengan penjelasan saya.
+- Saya sebagai pemateri belum menyampaikan secara matang, sehingga saat menyampaikan terjadi kesalahan teknis seperti laptop tidak bisa tersambung ke HDMI dan juga slide-nya terlalu sedikit dan mungkin audience-nya belum begitu paham dengan penjelasan saya.
 - Pesertanya 4L (Lu lagi Lu lagi), itu-itu aja yang datang meetup. Masih belum terlihat wajah-wajah baru. Hehe
 - Panitia sebaiknya meminta feedback kepada hadirin tentang topik yang akan dibahas di meetup selanjutnya, tentang performa meetup, tentang acara meetup ini ke depannya mau seperti apa. Mungkin bisa pakai Google Form saat absen ulang.
-- Tempatnya mungkin terlalu kecil, sehingga perserta yang bisa dipilih untuk hadir sedikit.
+- Tempatnya mungkin terlalu kecil, sehingga peserta yang bisa dipilih untuk hadir sedikit.
 
 ## Harapan
 
-Harapan kedepannya, meetup ini dapat menciptakan ekosistem IT yang
+Harapan ke depannya, meetup ini dapat menciptakan ekosistem IT yang
 semakin solid di Lombok.

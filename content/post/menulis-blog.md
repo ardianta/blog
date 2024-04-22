@@ -68,7 +68,7 @@ gambar yang bagus di internet.
 
 ## Akhir Kata...
 
-Ternyta selama ini saya sudah menulis dengan cara yang salah.
+Ternyata selama ini saya sudah menulis dengan cara yang salah.
 Tiga tahapan dilakukan sekaligus yang membuat tulisan saya 
 lama terbit.
 

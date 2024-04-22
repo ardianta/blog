@@ -25,7 +25,7 @@ Kemarin (15/05/2023), saya mulai develop tema baru.
 hugo new theme ardianta
 ```
 
-Untuk sementara, nama theme-nya adalah `ardianta`. Maungkin nanti kalau sudah jadi akan saya ubah
+Untuk sementara, nama theme-nya adalah `ardianta`. Mungkin nanti kalau sudah jadi akan saya ubah
 dan submit ke website Hugo.
 
 ## Desain Theme
@@ -60,7 +60,7 @@ Hari ini saya menghabiskan waktu sekitar 4 jam lebih buat coding *(slicing)* hal
 Saya menggunakan TailwindCSS, tapi untuk awal saya pakai Tailwind dari CDN. Bukan tailwind yang di-build dari Hugo,
 seperti di Tutorial yang pernah saya share: [Menggunakan Tailwind untuk Membuat Tema Hugo](https://www.petanikode.com/hugo-tailwind/).
 
-Pertimabangan menggunakan TailwindCSS di awal agar bisa langsung fokus slicing, bukan setup-setup Tailwind.
+Pertimbangan menggunakan TailwindCSS di awal agar bisa langsung fokus slicing, bukan setup-setup Tailwind.
 
 Untuk saat ini hasil codingnya:
 

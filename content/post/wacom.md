@@ -21,7 +21,7 @@ Wacom model Intuos CTH-480.
 
 ![Wacom CTH-480](/img/wacom/wacom-intuos.jpg)
 
-Ini memang model lama, Dia beli skitar 3 tahun yang lalu.
+Ini memang model lama, Dia beli sekitar 3 tahun yang lalu.
 Namun, tidak pernah dipakai.
 
 ## Pengalaman Pertama Menggunakan Wacom
@@ -181,7 +181,7 @@ Itulah hasil latihan menggambar menggunakan Wacom selama seminggu.
 Sebenarnya masih banyak lagi yang belum saya upload.
 
 Rata-rata mungkin saya menghabiskan waktu 1 jam untuk menyelesaikan gambar
-yang berwarna. Sementara untuk sektsa dan line art, sekitar 30 menit bisa.
+yang berwarna. Sementara untuk sketsa dan line art, sekitar 30 menit bisa.
 
 Pada awal-awal menggunakan pen tablet memang sulit.
 Namun, semakin sering latihan...semakin gampang.
@@ -190,11 +190,11 @@ Saya sendiri masih belum terlalu menguasai, tapi untuk saat ini
 sudah mulai terbiasa.
 
 Dari gambar-gambar yang sudah saya buat,
-Saya bisa melihat kekurangan dan kesalahanya.
+Saya bisa melihat kekurangan dan kesalahannya.
 
 Seperti shading dan lighting yang kurang tepat,
 line art yang kurang halus.
 
 ...dan sebagainya.
 
-![Terluslah Berlatih](/img/wacom/terus-berlatih.png)
+![Teruslah Berlatih](/img/wacom/terus-berlatih.png)

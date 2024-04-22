@@ -25,7 +25,7 @@ Di CloudFlare saya set seperti ini:
 
 Hampir satu minggu saya tunggu, tapi belum juga bisa.
 
-Ternyata masalahanya cuma di pengaturan SSL Cloudflare saja.
+Ternyata masalahnya cuma di pengaturan SSL Cloudflare saja.
 
 Harus diset __"Full"__:
 

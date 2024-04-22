@@ -14,10 +14,10 @@ description: "Memaksa diri menggunakan keymap VIM"
 ---
 
 Kira-kira sudah hampir satu minggu saya membiasakan diri
-menggunakan keymap VIM dengan menginstall exension
+menggunakan keymap VIM dengan menginstall extension
 VIM di Google Chrome dan VS Code.
 
-Di Google Chome saya install Vimum. Sedangkan
+Di Google Chrome saya install Vimium. Sedangkan
 di VS Code saya install [vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) (emulator).
 
 Saya mulai terbiasa menggunakan tombol
@@ -25,13 +25,13 @@ navigasi `h`,`j`,`k`, dan `l` dan merasakan
 lebih mudah daripada menekan tombol navigasi panah.
 
 Biasanya saya menugaskan jari kelingking untuk menekan
-tomol panah. Namun setelah menggunakan tombol
+tombol panah. Namun setelah menggunakan tombol
 navigasi VIM, saya malah jarang menekan tombol itu.
 
 Saat ini saya cuma ingat beberapa perintah,
-karena sring digunakan:
+karena sering digunakan:
 
-- `ci"` -- ubah teks yang ada didalam tanda kutip
+- `ci"` -- ubah teks yang ada di dalam tanda kutip
 - `ciw` -- ubah satu kata
 - `.` -- ulangi
 - `u` -- undo

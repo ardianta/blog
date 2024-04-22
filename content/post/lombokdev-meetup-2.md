@@ -26,10 +26,10 @@ pulang beberapa hari ke Lombok untuk menghadiri acara ini.
 Materi yang disampaikan di acara ini cukup menarik dan beragam.
 Bisa di lihat di sini: [Lombokdev/Meetup002](https://github.com/LombokDev/Meetup002/blob/master/acara.md).
 
-Acara ini berlokasi di Cafe Soecjipto, Ampenan.
+Acara ini berlokasi di Cafe Soetjipto, Ampenan.
 
 Selain mendapat materi tentang IT dan pemrograman,
-saya juga dapat materi tentang maracik kopi 😄.
+saya juga dapat materi tentang meracik kopi 😄.
 Karena ada teman saya yang bekerja di sana.
 Dia adalah Gharin, teman sekelas saya waktu SMK.
 

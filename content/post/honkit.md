@@ -78,7 +78,7 @@ mkdir src
 Di dalam folder `src` nantinya akan berisi file markdown dan images untuk 
 konten bukunya.
 
-Silahkan pindahkan file `SUMMARY.md` dan `README.md` ke dalam folder `src`.
+Silakan pindahkan file `SUMMARY.md` dan `README.md` ke dalam folder `src`.
 
 ```txt
 ├── node_modules

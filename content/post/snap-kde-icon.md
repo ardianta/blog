@@ -31,7 +31,7 @@ Tapi jika saya install dari Discover  (Manajer aplikasi bawaan KDE), aplikasi ya
 
 Tapi kenapa saat saya menggunakan command line, ikon aplikasinya tidak tampil di menu? 
 
-Setelah googling, akrhinya saya ketemua akar masalahnya.
+Setelah googling, akhirnya saya ketemu akar masalahnya.
 
 ## Masalah:
 
@@ -39,7 +39,7 @@ Ikon aplikasi yang diinstal dengan `snap` tidak tampil di menu launcher, karena 
 
 O ya, dalam kasus ini saya menggunakan Fish Shell.
 
-Seharusnya default sehll di Linux adalah Bash, tapi saya sudah menggantinya dengan Fish Sehll, karena merasa lebih nyaman menggunakan Shell ini.
+Seharusnya default shell di Linux adalah Bash, tapi saya sudah menggantinya dengan Fish Shell, karena merasa lebih nyaman menggunakan Shell ini.
 
 Ternyata ini yang menjadi penyebab ikon aplikasi tidak ditambahkan di menu launcher.
 
@@ -72,6 +72,6 @@ Intinya, pada script ini kita menambahkan alamat path aplikasi snap.
 
 File script yang ada di dalam folder `plasma-workspace/env` akan otomatis dieksekusi saat komputer baru nyala.
 
-Karena itu, silahkan restart untuk melihat perubahannya.
+Karena itu, Silakan restart untuk melihat perubahannya.
 
 Semoga berhasil.

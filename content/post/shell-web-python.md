@@ -77,7 +77,7 @@ Woh! ada `gcc`, `g++`, dan juga `ruby`.
 
 Kalau `git` ada tidak?
 
-![Git di webstite Python](/img/python/git.png)
+![Git di website Python](/img/python/git.png)
 
 Tentu saja ada.
 

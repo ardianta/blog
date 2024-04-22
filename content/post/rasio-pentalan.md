@@ -20,9 +20,9 @@ Sejak saat itu, masih banyak yang harus dikerjakan
 seperti mendasain ulang template, memperbaiki konten, memperbaiki
 *broken link*, dsb.
 
-Yang paling lama adalah memperbaiki kontentnya. Karena saya menemukan
+Yang paling lama adalah memperbaiki kontennya. Karena saya menemukan
 banyak konten yang kualitasnya rendah. Hingga saat ini pekerjaan
-memperbaiki konten masih belum selsai dan akan terus dilakukan.
+memperbaiki konten masih belum selesai dan akan terus dilakukan.
 
 Saat itu, rasio pentalan *(bounce rate)* blog saya sekitar 50%--70%.
 Menurut saya ini hal yang wajar.
@@ -53,7 +53,7 @@ buruk. Karena pengunjung kurang betah di sana.
 Biasanya dipengaruhi oleh:
 
 - Loading lama
-- Kontent buruk
+- Konten buruk
 - Pengunjung tidak menemukan apa yang dicari
 - dll.
 

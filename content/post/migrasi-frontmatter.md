@@ -20,7 +20,7 @@ Ada 300 lebih artikelnya yang harus dimodifikasi.
 Saya rasa ini cukup merepotkan, mengedit satu-persatu front-matter
 setiap artikel. Apalagi jumlahnya cukup banyak.
 
-Akhirnyta saya menemukan `sed` (Stream Editor). 
+Akhirnya saya menemukan `sed` (Stream Editor). 
 
 Berawal dari coba-coba dari [perintah ini](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files), 
 Front-matternya menjadi rusak. Untungnya menggunakan git, jadi masih bisa dikembalikan lagi.
@@ -58,7 +58,7 @@ sed -n -- '/src:/p' ./content/post/*
 Kalau sudah yakin bari menjalankan perintah yang atas.
 
 Saya belum begitu paham dengan `sed` terutama pada *regex*.
-Namun, bisa diperlajari pada [tutorialspoint](https://www.tutorialspoint.com/sed/index.htm).
+Namun, bisa dipelajari pada [tutorialspoint](https://www.tutorialspoint.com/sed/index.htm).
 
 Kedepannya, saya akan menggunakan *archetype* ini untuk postingan terbaru
 di Petanikode:
@@ -95,4 +95,4 @@ description: "{{ replace .TranslationBaseName "-" " " | title }}"
 ```
 
 Setelah selesai mengedit front-matter dengan `sed`, berikutnya melakukan *testing* 
-dan *merge* ke *branch* `master`. Terakhir melakuan *deploy* dan beres! 😄
+dan *merge* ke *branch* `master`. Terakhir melakukan *deploy* dan beres! 😄

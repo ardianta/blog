@@ -41,7 +41,7 @@ karena itu.. saya mau ganti aja ke Visual Studio Marketplace.
 
 Caranya gimana?
 
-Oke silahkan ikuti ini:
+Oke Silakan ikuti ini:
 
 ## Untuk Pengguna Linux
 
@@ -68,7 +68,7 @@ Setelah itu, buka ulang VS Codium dan cobalah untuk mencari extension yang dibua
 
 ## Untuk Pengguna Mac
 
-Buat kamu yang menggunakan MacOS, silahkan masuk ke `$HOME/Application Support/VSCodium`, lalu di sana buat
+Buat kamu yang menggunakan MacOS, Silakan masuk ke `$HOME/Application Support/VSCodium`, lalu di sana buat
 file baru dengan nama `product.json` dengan isi seperti ini: [^1]
 
 ```json

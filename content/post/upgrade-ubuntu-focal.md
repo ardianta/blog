@@ -13,7 +13,7 @@ description: Error dan masalah yang saya temukan saat upgrade Kubuntu 18.04 ke K
 ---
 
 Hari ini saya melakukan upgrade Ubuntu 18.04 ke 20.04, sebenarnya versi ini
-masih belum stabil. Menurut pengumuman resminya, nanti tanggl 6 agustus
+masih belum stabil. Menurut pengumuman resminya, nanti tanggal 6 agustus
 akan dirilis versi stabilnya.
 
 Tapi, saya malah **nekat upgrade**.. karena ingin mencoba fitur-fitur baru
@@ -36,7 +36,7 @@ tetapi dapat pesan error.
 
 ✅ Solusi:
 
-Menjalankan Dolphin dengen `debus-launch`:
+Menjalankan Dolphin dengan `debus-launch`:
 
 ```bash
 dbus-launch dolphin
@@ -91,7 +91,7 @@ Hasilnya, masalah teratasi..
 
 ✅ Solusi:
 
-1. Cara cara agar bisa terhubung dengan intenret;
+1. Cara cara agar bisa terhubung dengan internet;
 2. Jalankan perintah `sudo dpkg --configure` 
 3. Lakukan update dan upgrade
 
@@ -99,7 +99,7 @@ Jika solusi ini masih belum mempan, coba install driver WiFi-nya.
 
 ## 3. Audio Tidak ada Suara
 
-Volume suara tidak bisa diperbesar atau dikecilkan kerena:
+Volume suara tidak bisa diperbesar atau dikecilkan karena:
 
 "No input or output devices found"
 
@@ -112,7 +112,7 @@ Artinya, sound card gagal dibaca..
 
 Solusinya sama seperti masalah nomer 2, yakni harus melakukan:
 
-1. Cara cara agar bisa terhubung dengan intenret;
+1. Cara cara agar bisa terhubung dengan internet;
 2. Jalankan perintah `sudo dpkg --configure` 
 3. Lakukan update dan upgrade
 

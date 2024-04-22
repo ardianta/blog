@@ -72,10 +72,10 @@ Awalnya dulu pada tanggl 15 Oktober 2015,
 komunitas ini bernama **Mata Lensa**.
 Kemudian berubah nama menjadi **Lombok Phonegraphy**.
 
-Di sini tempat bekumpul orang-orang yang
+Di sini tempat berkumpul orang-orang yang
 memiliki hobi yang sama, yaitu: fotografi.
 
-Kita belajar besama, dari yang amatiran
+Kita belajar bersama, dari yang amatiran
 hingga yang sudah ahli dan profesional 
 berkumpul di sini.
 
@@ -118,7 +118,7 @@ algoritma di baliknya.
 Yap! pada ponsel pintar, semua diatur oleh algoritma.
 
 Mulai dari efek beautify, yang membuat wajahmu terlihat
-lebih cantik dan tampan saat ber-selfie. Hinagga ke
+lebih cantik dan tampan saat ber-selfie. Hingga ke
 filter-filter, auto focus, dan kecerdasan buatan ada di dalamnya.
 
 Ini memberi banyak keuntungan kepada seorang juru foto pemula
@@ -240,7 +240,7 @@ yang menewaskan ratusan korban.
 <!-- Ratusan atau ribuan? -->
 
 Selama sekitar dua bulan, Lombok diteror dengan
-gmepa-gempa susulan.
+gempa-gempa susulan.
 
 Sebagian besar masyarakatnya belum berani
 tinggal di rumah, karena masih trauma.
@@ -268,7 +268,7 @@ kepada masyarakat.
 
 Untuk menularkan semangat ini sampai ke sahabat kami di
 Palu atau Sulawesi, komunitas Lombok Phonegraphy 
-berinisatif untuk membuat donasi sederhana dalam 
+berinisiatif untuk membuat donasi sederhana dalam 
 bentuk materi dan buku.
 
 Ini adalah bagian yang paling berkesan...
@@ -286,7 +286,7 @@ Lombok. Karena menurut saya, mereka sangat penting
 dalam pembangunan sumber daya manusia di NTB.
 
 Kata-kata terakhir yang masih saya ingat
-saat penututpan acara ini:
+saat penutupan acara ini:
 
 "Mari Kita bersama-sama membangun NTB dengan cara kita"
 

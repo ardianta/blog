@@ -155,7 +155,7 @@ Your requirements could not be resolved to an installable set of packages.
 
 ## Ekstensi yang dibutuhkan belum terinstall
 
-Ok, dari pesan error tersebut, kita bisa ketahui ada bebeapa Ekstensi yang dibutuhkan oleh Laravel.
+Ok, dari pesan error tersebut, kita bisa ketahui ada beberapa Ekstensi yang dibutuhkan oleh Laravel.
 Namun, belum tersedia dan diaktifkan.
 
 Solusi:
@@ -221,7 +221,7 @@ Your requirements could not be resolved to an installable set of packages.
   You can also run `php --ini` inside terminal to see which files are used by PHP in CLI mode.
 ```
 
-Kali ini errornya karena belum ada `ext-dom`.
+Kali ini error-nya karena belum ada `ext-dom`.
 
 Solusinya:
 

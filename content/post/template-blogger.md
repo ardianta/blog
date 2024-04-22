@@ -54,6 +54,6 @@ Blogger sepertinya produk yang tidak mendapatkan
 perhatian lebih. Di saat produk-produk Google yang lain 
 sudah di-upgrade ke teknologi baru. 
 Blogger malah dibiarkan oleh Google.
-Padalah penggunanya cukup banyak.
+Padahal penggunanya cukup banyak.
 
 Mungkin saja profit-nya kurang 😄...

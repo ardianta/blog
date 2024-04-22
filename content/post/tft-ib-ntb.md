@@ -19,7 +19,7 @@ Hari Sabtu sampai minggu tanggal 24--25 November 2018, saya mengikuti acara TFT 
 Acara ini merupakan pelatihan membuat konten positif semacam meme untuk melawan hoax.
 Acara ini berlangsung seru, dan bayak wawasan baru yang bisa didapatkan dari sana.
 
-Salah satu yang membuat saya tertarik adalah data tinggat literasi
+Salah satu yang membuat saya tertarik adalah data tingkat literasi
 yang ditampilkan pemateri.
 
 Di sana Indonesia berada di urutan ke-60 dari 61 negara.
@@ -44,8 +44,8 @@ Lalu dapat teman baru.
 
 Saya sariawan, sehingga kurang enak saat makan. Haha
 
-Batrai laptop saya rusak, gak bisa nyala.
-Batray 0% gak bisa dicas.
+Baterai laptop saya rusak, gak bisa nyala.
+Baterai 0% gak bisa dicas.
 
 Mungkin karena kemarin lupa dicas seharian full.
 

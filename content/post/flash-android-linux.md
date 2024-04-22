@@ -31,7 +31,7 @@ Flash HP di Linux cukup dilakukan dengan dua tools, yakni `adb` dan `fastboot`. 
 
 ## Mulai..
 
-Oke, sekarang yang perlu dilakukan adalah booting ke fastboot android. Caranya, tekan tombol volume up + powert. Beda HP beda juga caranya, silahkan cari sendiri di Google.
+Oke, sekarang yang perlu dilakukan adalah booting ke fastboot android. Caranya, tekan tombol volume up + powert. Beda HP beda juga caranya, Silakan cari sendiri di Google.
 
 Setelah itu, hubungkan HP dengan Laptop dengan kabel data.
 
