@@ -9,14 +9,14 @@ type: post
 tags:
     - Ramadhan
 
-image: "/img/ramadhan-2024/im-porgrammer-i-have-no-life.png"
-description: "My Circadian Rythm and Dopamine factory reset! Dari puasa nonton anime dan main game, hingga tersesat dalam berpikir. Inilah cerita Ramadhan 2024 yang membantu saya keluar dari isekai hell."
+image: "/img/ramadhan-2024/im-programmer-i-have-no-life.png"
+description: "My Circadian Rhythm and Dopamine factory reset! Dari puasa nonton anime dan main game, hingga tersesat dalam berpikir. Inilah cerita Ramadhan 2024 yang membantu saya keluar dari isekai hell."
 
 typora-root-url: ../../static
 typora-copy-images-to: ../../static/img/ramadhan-2024/
 ---
 
-![I'm programmer, I have no life](/img/ramadhan-2024/im-porgrammer-i-have-no-life.png)
+![I'm programmer, I have no life](/img/ramadhan-2024/im-programmer-i-have-no-life.png)
 
 Salah satu impian programmer yang tiap malam suka begadang adalah kembali hidup normal.
 
