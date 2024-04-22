@@ -79,7 +79,7 @@ Rencananya, ada beberapa hal yang ingin saya kendalikan:
 2. Pikiran dan imajinasi
 3. Pola Tidur
 
-Selain itu, saya juga ingin punya kebiasaan bagun pagi seperti orang normal.
+Selain itu, saya juga ingin punya kebiasaan bangun pagi seperti orang normal.
 
 Oke, mari kita mulai bahas dari:
 
@@ -89,17 +89,17 @@ Oke, mari kita mulai bahas dari:
 
 Saya senang di bulan Ramadhan ada puasa, jadi saya bisa menjalankan diet dengan lancar hehe.
 
-Banyak yang ~~salah tagkap~~ tertawa, begitu saya bilang "lagi diet". 
+Banyak yang ~~salah tangkap~~ tertawa, begitu saya bilang "lagi diet". 
 
 Soalnya tubuh saya kurus 🤣.
 
 ![Anime diet](/img/ramadhan-2024/anime-diet.avif)
 
 Diet yang saya maksud di sini adalah mengendalikan apa yang masuk ke tubuh dan jam berapa boleh masuk.
-Misalnya saya ingin mengkonsumsi lebih banyak protein dibandingkan karbo, dan cuma boleh makan di jam berbuka dan sahur.
+Misalnya saya ingin mengonsumsi lebih banyak protein dibandingkan karbo, dan cuma boleh makan di jam berbuka dan sahur.
 
 Diet itu bukan hanya untuk menurunkan berat badan, tapi juga untuk menaikan berat badan. Pasti kamu baru tahu fakta ini. 
-Silahkan pelajari lagi tentang diet, biar ga salah tangkap lagi hehe.
+Silakan pelajari lagi tentang diet, biar ga salah tangkap lagi hehe.
 
 Semakin saya pelajari tentang isi dalam tubuh, semakin saya paham apa yang harus saya lakukan.
 
@@ -137,7 +137,7 @@ dan biasnaya saya jawab:
 "Iya, lagi diet 🥲"
 
 Nasi mengandung karbo, saya kira tidak terlalu butuh banyak karbo karena tidak kerja berat di bulan Ramadhan.
-Kalau kerja di kuli bangungan, mungkin saya akan makan banyak nasi.
+Kalau kerja di kuli bangunan, mungkin saya akan makan banyak nasi.
 
 Makan nasi secukupnya aja, banyakin makan protein.
 
@@ -175,7 +175,7 @@ Karena gak ada jeda (puasa) untuk memberi kesempatan tubuh kita mencerna apa yan
 Kamu bayangin aja, kalau perut terus-terusan dikasih makan, pasti akan terjadi buffer overflow
 atau snack overflow di lambung dan usus.
 
-Selain itu, dengan tidak makan snack sambil coding membaut saya lebih fokus.
+Selain itu, dengan tidak makan snack sambil coding membuat saya lebih fokus.
 
 Lanjut..
 
@@ -193,14 +193,14 @@ Dopamin berperan penting dalam banyak fungsi tubuh, termasuk: [^1]
 - **Motivasi**: Dopamin membantu memotivasi kita untuk melakukan hal-hal yang kita sukai dan yang bermanfaat bagi kita.
 - **Penghargaan**: Dopamin dilepaskan ketika kita melakukan sesuatu yang menyenangkan atau bermanfaat, dan hal ini membantu kita untuk belajar mengulangi perilaku tersebut.
 
-Salah satu cara gila ngehack otak agar cepat mearasa happy dari stress adalah dengan Narkoba.
+Salah satu cara gila nge-hack otak agar cepat merasa happy dari stress adalah dengan Narkoba.
 Narkoba atau obat-obatan akan memicu produksi dopamine berlebihan di dalam otak sehingga yang 
 mengonsumsinya langsung jadi happy dan gila. [^2]
 
 ![pakai narkoba](https://malangkota.bnn.go.id/konten/unggahan/2021/02/happy-chemicals-6.jpg)
 
 
-Tapi tentu saja ngehack tubuh dengan obat adalah hal yang buruk. Nanti bisa kecanduan dan otak jadi rusak.
+Tapi tentu saja nge-hack tubuh dengan obat adalah hal yang buruk. Nanti bisa kecanduan dan otak jadi rusak.
 
 Kita sudah diberikan tubuh yang sempurna, lalu di-hack dengan cara yang salah.
 
@@ -212,7 +212,7 @@ Selain obat, ada juga yang memicu produksi dopamine berlebih yang kita kurang sa
 2. Nonton Anime
 3. Scroll-scroll Sosmed
 
-Sejauh ini tiga hal ini yang menggangu dopamine saya dan menjadi kurang fokus coding.
+Sejauh ini tiga hal ini yang mengganggu dopamine saya dan menjadi kurang fokus coding.
 Seharusnya saya merasa senang coding, tapi karena nemu aktifitas yang lebih menyenangkan
 jadi lebih memilih aktifitas tersebut daripada coding.
 
@@ -252,7 +252,7 @@ Seringkali terjadi seperti ini:
 
 Saat mau tidur, kepikiran error di code. Akhirnya bangun dan buka laptop lagi.
 
-Saat mau tidur, tiba-tiba mikiran hal random. Hal random itu menjadi hal menarik,
+Saat mau tidur, tiba-tiba mikirin hal random. Hal random itu menjadi hal menarik,
 dan akhirnya buka HP/laptop untuk mencatatnya.
 
 Selain saat tidur, saat menyendiri juga kita akan mikirin banyak hal.
@@ -279,7 +279,7 @@ Seperti apa rasanya berada di dalam black hole?
 
 Apakah alam semesta ini punya ujung yang terbatas atau infinite?
 
-Megnapa kehidupan cuma ada di Bumi?
+Mengapa kehidupan cuma ada di Bumi?
 
 Jangan-jangan hidup yang kita alami ini cuma simulasi dan tidak nyata,
 dan kebenaran sesungguhnya akan diketahui setelah kita mati.
@@ -305,7 +305,7 @@ Biasanya pikiran random muncul karena efek terlalu sering scroll-scroll sosmed.
 Sosial media menyediakan konten random yang kita konsumsi terus-menerus.
 Pikiran kita jadi terpengaruh dan sulit fokus.
 
-Untuk membereskan ini, saya bisanaya akan **membaca buku dan menggambar**.
+Untuk membereskan ini, saya biasanya akan **membaca buku dan menggambar**.
 
 Membaca buku meningkatkan fokus, karena saat membaca kita memikirkan apa yang lagi dibaca.
 Tapi kadang juga kalau gagal fokus terjebak lagi ke hal-hal random. 😄 Akhirnya memutuskan,
@@ -336,7 +336,7 @@ menata ulang pikiran yang lagi ruwet, overthingking, banyak pikiran. Cobain deh!
 
 ![Art Theraphy](/img/ramadhan-2024/art-theraphy.jpg)
 
-Saat menggambar, saya merasakan *spark joy*---kalau katanya Marie Kondo---dan tentunya ini juga
+Saat menggambar, saya merasakan *spark joy*---seperti kata Marie Kondo---dan tentunya ini juga
 memproduksi dopamine.
 
 Saya tidak menggambar setiap hari, saya menggambar kalau lagi pengen aja hehe.
@@ -357,7 +357,7 @@ Kurangi konsumsi konten sosmed, tata ulang pikiran dengan baca buku dan menggamb
 ![Wong saya suka kok](/img/ramadhan-2024/wong-saya-suka-kok.jpg)
 
 Oh, selain baca buku dan menggambar.. saya juga latihan seni berpedang iaijutsu atau iaido.
-Untuk latih kordinasi tubuh dan pikiran.
+Untuk latih koordinasi tubuh dan pikiran.
 
 ![Latihan samurai](https://media1.tenor.com/m/f_2dLRsoamYAAAAd/rurouni-kenshin-martial-arts.gif)
 
@@ -372,16 +372,16 @@ Dengan kata lain.. HP-nya kembali ke fitrah. hehe
 
 ![Factory reset](https://media1.tenor.com/m/88kh5dCbAz8AAAAC/reset-button.gif)
 
-Tubuh kita awalnya diciptkan sebagai makhluk yang circadian rythem-nya mengikuti alam.
+Tubuh kita awalnya diciptakan sebagai makhluk yang circadian rhythm-nya mengikuti alam.
 Tidur kalau sudah malam dan bangun kalau sudah pagi.
 
 Tapi..
 
-Dengan adanya lampu dan peralatan elektronik membuat jam bilogis (circardian rythem) ini
+Dengan adanya lampu dan peralatan elektronik membuat jam biologis (circadian rhythm) ini
 berubah. Saat malam lampu HP dan laptop menyala, mata jadi teransang untuk tetap terjaga.
-Sehinga jam dan pola tidur jadi berubah.
+Sehingga jam dan pola tidur jadi berubah.
 
-![Circardian Rythm](https://upload.wikimedia.org/wikipedia/commons/3/30/Biological_clock_human.svg)
+![Circadian Rhythm](https://upload.wikimedia.org/wikipedia/commons/3/30/Biological_clock_human.svg)
 
 Saya pernah punya pola tidur terbalik. Tidur saat siang, terjaga saat malam.
 Ini berlangsung cukup lama, dan saya bertekat untuk memperbaikinya. Saya tidak mau menjadi makhluk nokturnal.
@@ -397,10 +397,10 @@ Rulenya:
 
 Tapi kadang di atas jam 9 belum juga merasa ngantuk.
 
-Saya jadi teringat sebuah komik yang saya dapat dari susu dancow waktu masih SD dulu:
+Saya jadi teringat sebuah komik yang saya dapat dari susu Dancow waktu masih SD dulu:
 
 Komiknya bercerita tentang seorang raja yang gak bisa tidur.
-Lalu raja tersebut memanggil tabib. Si Tabib memnyarankan raja agar pergi berburu ke hutan.
+Lalu raja tersebut memanggil tabib. Si Tabib menyarankan raja agar pergi berburu ke hutan.
 
 Di hutan, raja tersebut bertemu dengan penebang kayu yang lagi tertidur pulas.
 Setelah tukang kayu itu bangun, raja bertanya dan ingin tahu ilmu tidur yang dimiliki si penebang kayu.
