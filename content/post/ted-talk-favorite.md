@@ -53,7 +53,10 @@ Berns meninggal ketika umurnya menginjak 17 tahun, pada Jumat, 11 Januari 2014. 
 [^1]: https://nationalgeographic.grid.id/read/13287419/sam-berns-penderita-penyakit-langka-meninggal-dunia
 
 
-## 7. TODO: Will be add soon
+## 7. Gamification to improve our world: Yu-kai Chou
+
+{{< youtube v5Qjuegtiyc >}}
+
 ## 8. TODO: Will be add soon
 ## 9. TODO: Will be add soon
 ## 10. TODO: Will be add soon
