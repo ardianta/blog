@@ -1,5 +1,15 @@
 {{ define  "main" }}
-<section class="py-16 px-8 lg:px-0 max-w-4xl mx-auto">
+<section class="py-16 px-8 lg:px-0 max-w-2xl mx-auto">
+
+  <hgroup class="mb-16">
+    <p class="font-bold text-center text-indigo-600">Coming Soon 🚧</p>
+    <h2 class="font-bold text-center text-2xl text-slate-700">This page is under development</h2>
+  </hgroup>
+
+  <p class="text-xl text-center">Sorry, nothing to show here. You can see my projects on my 
+    <a class="underline" href="{{ site.Params.social.github }}" target="_blank">Github profile</a> or send me email to request my CV.</p>
+
+<!--
   <hgroup class="mb-16">
     <p class="font-bold text-center text-indigo-600">Explore Project 🚀</p>
     <h2 class="font-bold text-center text-2xl text-slate-700">I Built and Involved</h2>
@@ -22,7 +32,7 @@
   <div class="mt-16 flex justify-center">
     {{ partial "pagination" . }}
   </div>
+-->
 </section>
-
 
 {{ end }}

@@ -9,6 +9,8 @@ permalinks:
 params:
   author: Dian
   description: 'Hello, saya Dian. Blog ini belum jadi. Sabar ya...'
+  social:
+    github: https://github.com/ardianta
 
 frontmatter:
   date:
