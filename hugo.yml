@@ -8,9 +8,12 @@ permalinks:
 
 params:
   author: Dian
+  email: web@ardianta.com
   description: 'Hello, saya Dian. Blog ini belum jadi. Sabar ya...'
   social:
     github: https://github.com/ardianta
+    linkedin: https://linkedin.com/in/ardianta
+    dribbble: https://dribbble.com/ardianta
 
 frontmatter:
   date:
