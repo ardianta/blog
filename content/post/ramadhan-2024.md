@@ -460,7 +460,7 @@ Bagun pagi itu nikmat, karena bisa mengamati sunrise.
 
 ..dan jangan lupa sambil dengerin BGM: **DAYBREAK FRONTLINE**.
 
-![Daybreak frontline](https://i.ytimg.com/vi/emrt46SRyYs/maxresdefault.jpg)
+[![Daybreak frontline](https://i.ytimg.com/vi/emrt46SRyYs/maxresdefault.jpg)](https://music.youtube.com/playlist?list=PL4rh3x2z8wVZ2LNp5GKvvLB0skVw9kSAU&si=d1z55DAtZFnBcwys)
 
 Ini saya kasi playlist youtube-nya: [[Playlist DAYBREAK FRONTLINE]](https://music.youtube.com/playlist?list=PL4rh3x2z8wVZ2LNp5GKvvLB0skVw9kSAU&si=d1z55DAtZFnBcwys).
 
