@@ -69,16 +69,16 @@ Sedangkan kalau di C++ udah bisa secara langsung.. tanpa harus pakai pointer.
 
 Contoh di C:
 
-<!-- TODO perbaiki contoh ini -->
 ```c
 struct Player
 {
     char* name;
     int hp;
-    void doAttack();
+    void (*doAttack)();
 };
-```
 
+void doAttack(){ ... }
+```
 
 Contoh di C++:
 
