@@ -30,7 +30,7 @@ Yakni menggunakan Authenticator dan SMS OTP, sehingga akhirnya saya bisa menguba
 
 Saya menemukannya di tweet:
 
-{{< tweet 963318837885026309 >}}
+{{< tweet user="JeniusConnect" id="963318837885026309" >}}
 
 Awalnya saya coba menggunakan kode `SUNIIDJA`, tapi nama bank yang keluar malah lain. Bukan Bank BTPN.
 
@@ -54,7 +54,7 @@ Lalu 4 angka kode terakhir kode cabang, dapat dari mana?
 
 Saya dapat dari:
 
-{{< tweet 1261863279476928517 >}}
+{{< tweet user="JeniusConnect" id="1261863279476928517" >}}
 
 Nah, di sana kode cabang adalah `2130101` kita ambil 4 angka terakhir untuk diisi di Upwork. Jadinya `0101` .
 
