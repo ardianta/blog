@@ -7,7 +7,7 @@ draft: false
 tags:
     - blog
 
-image: "img/lombokfoss/ssl.png"
+image: "/img/lombokfoss/ssl.png"
 description: "Rencananya saya mau pakai Hugo dan hostingnya di Firebase, lalu untuk DNS saya masih percayakan pada CloudFlare."
 ---
 

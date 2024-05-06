@@ -16,7 +16,7 @@ description: "Akhirnya saya mulai mencoba menggunakan VSNote sebagai catatan pri
 typora-root-url: ../../static
 ---
 
-Hari ini saya mulai menggunakan [VSNote](https://marketplace.visualstudio.com/items?itemName=patricklee.vsnotes) 
+Hari ini saya mulai coba menggunakan [VSNote](https://marketplace.visualstudio.com/items?itemName=patricklee.vsnotes) 
 untuk mengelola catatan pribadi.
 
 Saya sudah coba beberapa tools, seperti Evernote dan Notion, tapi sepertinya

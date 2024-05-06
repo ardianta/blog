@@ -7,7 +7,7 @@ draft: false
 tags:
     - Git
 
-image: "img/git-matilampu/repo-rusak.png"
+image: "/img/git-matilampu/repo-rusak.png"
 description: "Apa yang akan terjadi saat menjalankan perintah git push lalu
 ditengah-tengah mati lampu?"
 ---

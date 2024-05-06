@@ -74,7 +74,7 @@ typora-root-url: ./
 typora-copy-images-to: ./
 ```
 
-Ini karena page bundle menyimpan gambar di satu folder dengan file page kontenya.
+Ini karena page bundle menyimpan gambar di satu folder dengan file page kontennya.
 
 Saya sendiri tidak menggunakan page bundle, karena tidak ingin mencampurkan konten dengan gambar, biar tidak berantakan hehe.
 

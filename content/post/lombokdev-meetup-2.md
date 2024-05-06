@@ -9,16 +9,16 @@ tags:
     - lombokdev
     - lombok
 
-image: "img/lombokdev/gharin-lombokdev.jpg"
-description: "Acara-acara IT di Lombok tidak seramai di Jawa. Tapi kali ini ada Lombokdev Meetup ke-2 yang diselengarakan oleh komunitas Lombokdev."
+image: "/img/lombokdev/gharin-lombokdev.jpg"
+description: "Acara-acara IT di Lombok tidak seramai di kota besar. Tapi kali ini ada Lombokdev Meetup ke-2 yang diselenggarakan oleh komunitas Lombokdev."
 ---
 
-Acara-acara IT di Lombok tidak seramai di Jawa.
+Acara-acara IT di Lombok tidak seramai di kota besar.
 Tapi kali ini ada Lombokdev Meetup ke-2
-yang diselengarakan oleh komunitas
+yang diselenggarakan oleh komunitas
 Lombokdev.
 
-Beberapa teman yang sudah bekerja di Jawa bahkan rela 
+Beberapa teman yang sudah bekerja di kota besar bahkan rela 
 pulang beberapa hari ke Lombok untuk menghadiri acara ini.
 
 {{< tweet user="ardiantapargo" id="919410088430809088" >}}
@@ -31,7 +31,6 @@ Acara ini berlokasi di Cafe Soetjipto, Ampenan.
 Selain mendapat materi tentang IT dan pemrograman,
 saya juga dapat materi tentang meracik kopi 😄.
 Karena ada teman saya yang bekerja di sana.
-Dia adalah Gharin, teman sekelas saya waktu SMK.
 
 ![Lombokdev meetup](/img/lombokdev/gharin-lombokdev.jpg)
 
@@ -47,8 +46,3 @@ luas dan lengkap fasilitasnya. Agar IT di Lombok semakin maju.
 ...dan juga komunitas-komunitas IT di seluruh Indonesia, 
 baik yang di barat, tengah, dan timur. Semoga
 semuanya merata. Tidak hanya berpusat di Jawa atau kota-kota besar saja.
-
-Baca juga ini:
-
-- [How to prepare an event for community remotely](http://pdft.net/2017/how-to-prepare-hold-an-event-remotely/)
-- [Lombok Developer Meetup: Face the technology transformation](http://oonlab.com/dev/2017/10/16/lombok-developer-meetup-go/)

@@ -7,8 +7,8 @@ draft: false
 tags:
     - laptop
 
-image: ""
-description: ""
+image: "https://staruptech.wordpress.com/wp-content/uploads/2012/10/wp_000139_thumb.jpg"
+description: "Ceritanya ada sebuah laptop (HP Mini) milik rekan bapak saya, setiap kali dihidupkan muncul pesan `COOLING FAN (902) ERROR`."
 ---
 
 _(ini adalah tulisan impor dari [blog lama](http://imtkj.blogspot.co.id/2015/06/memperbaiki-laptop-hp-cooling-fan-902.html))_

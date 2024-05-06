@@ -38,3 +38,11 @@ Selain itu, dalam kode juga saya sering typo.. biasanya typo dalam menulis nama 
 Link: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 Suka aja dengan ikon ini.
+
+## 4. Power Mode
+
+## 5. Live Server
+
+## 6. Live Share
+
+## 7. Code Runner
