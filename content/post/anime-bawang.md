@@ -136,6 +136,25 @@ Anime zombie-zombiean dan kereta ~~tayo~~. Ceritanya cukup menarik pertarunganny
 seru. Hampir mirip dengan konsep cerita Attack on Titan. Namun, setting
 tempat di anime ini lebih realistis.. yakni di Jepang.
 
+## 15. Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita
+
+Bawang: 🧅
+
+- Genre: Adventure, Fantasy
+- MAL: https://myanimelist.net/anime/53590/Saijaku_Tamer_wa_Gomi_Hiroi_no_Tabi_wo_Hajimemashita
+
+Saya memberikan rating 1 bawang untuk anime ini.
+Kalau lihat PV-nya, sepertinya akan banyak bawangnya.
+
+{{< youtube "LtwLjXQ3p1A" >}}
+
+Tapi ternyata tidak. Kandungan bawangnya sangat ringan.
+
+Walaupun begitu, saya suka anime ini karena MC-nya nggak OP
+dan music opening-nya bagus.
+
+{{< youtube "lM7k3xpPd_0" >}}
+
 ## Akhir Kata..
 
 Cukup sekian dulu, nanti saya tambahkan lagi.. dan tunggulah update berikutnya. 
