@@ -170,3 +170,6 @@ Dari pada beli ini:
 Mending menangis aja!
 
 Selamat menangis..
+
+
+![Crying over anime](/img/anime-bawang/crying-over-anime.jpg)
