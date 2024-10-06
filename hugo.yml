@@ -1,7 +1,12 @@
 baseurl: 'https://www.ardianta.com'
 title: Ahmad Muhardian
 theme: ardianta
-disqusShortname: ardianta
+
+services:
+  # googleAnalytics:
+  #   ID: UA-80537197-1
+  disqus:
+    shortname: petanikode
 
 permalinks:
   page: '/:slug/'
