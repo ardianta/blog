@@ -10,7 +10,7 @@ tags:
     - TED Talk
 
 image: "/img/ted-talk-favorite/ted-talk.jpg"
-description: ""
+description: "Video-video TED Talk ini sering saya tonton ulang karena isinya menarik dan menginspirasi."
 
 typora-root-url: ../../static
 typora-copy-images-to: ../../static/img/ted-talk-favorit/
