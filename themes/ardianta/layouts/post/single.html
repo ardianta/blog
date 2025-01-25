@@ -3,16 +3,22 @@
 <article class="py-16 px-8 max-w-3xl mx-auto">
   <hgroup class="mb-8">
     <h1 class="text-3xl md:text-5xl font-bold mb-4">{{ .Title }}</h1>
-    <p class="text-slate-400">{{ .Lastmod.Format "02 Jan 2006" }} &middot; {{ .ReadingTime }} min read</p>
+    <p class="text-slate-400">
+      {{ .Lastmod.Format "02 Jan 2006" }} &middot; {{ .ReadingTime }} min read
+    </p>
   </hgroup>
 
   <div class="prose prose-slate lg:prose-xl prose-a:text-pretty">
     {{ .Content | emojify }}
   </div>
 
-  <footer class="mt-16">
-    {{ template "post/_disqus.html" . }}
-  </footer>
+  <div class="mt-16">
+    <span>Tags:</span>
+    {{ with .GetTerms "tags" }} {{ range . }}
+    <a href="{{ .RelPermalink }}" class="text-indigo-600 mx-1">#{{ .LinkTitle }}</a>
+    {{ end }} {{ end }}
+  </div>
+  <footer class="mt-16">{{ template "post/_disqus.html" . }}</footer>
 </article>
 
 {{ end }}

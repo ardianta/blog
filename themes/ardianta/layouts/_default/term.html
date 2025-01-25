@@ -1,0 +1,52 @@
+{{ define "main" }}
+<section class="py-16 px-8 md:px-0">
+  <hgroup class="mb-16">
+    <p class="font-bold text-center text-indigo-600">
+      Personal Notes & Opinions in
+    </p>
+    <h2 class="font-bold text-center text-2xl text-slate-700">{{ .Title }}</h2>
+  </hgroup>
+
+  {{ $paginator := .Paginate .Pages 6 }}
+
+  <div class="grid md:grid-cols-2 gap-8 gap-x-16 place-items-center">
+    {{ range $paginator.Pages }}
+    <article class="grid grid-cols-4 gap-4 items-center md:items-start">
+      <div class="col-span-3">
+        <h3
+          class="text-lg md:text-xl font-bold text-slate-600 line-clamp-2 leading-tight mb-1"
+        >
+          <a href="{{ .RelPermalink }}" class="hover:text-indigo-600">
+            {{ .Title }}
+          </a>
+        </h3>
+        <p class="text-slate-600 line-clamp-3 text-sm mb-2">
+          {{ with .Description }}
+            {{ . }}
+          {{ else }}
+            {{ .Summary | plainify }}
+          {{ end }}
+        </p>
+        <p class="text-sm text-slate-400">
+          {{ .Lastmod.Format "02 Jan 2006" }} &middot; {{ .ReadingTime }} min read
+        </p>
+      </div>
+      <a href="{{ .RelPermalink }}" class="col-span-1">
+        <picture
+          class="block aspect-square border bg-slate-100 overflow-hidden rounded-xl md:rounded-3xl"
+        >
+          <img
+            src="{{ with .Params.Image }}{{ . }}{{ else }}https://placehold.co/128x128?text=No%20Image{{ end }}"
+            class="object-cover w-full h-full hover:scale-[1.2] duration-150 ease-in dark:outline dark:outline-1 dark:outline-slate-700"
+            alt="{{ .Title }}"
+          />
+        </picture>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+
+  <div class="mt-16 flex justify-center">{{ partial "pagination" . }}</div>
+</section>
+
+{{ end }}

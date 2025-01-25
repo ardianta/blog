@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="py-16 px-8 md:px-0">
+  <hgroup class="mb-16">
+    <p class="font-bold text-center text-indigo-600">
+      Personal Notes & Opinions
+    </p>
+    <h2 class="font-bold text-center text-2xl text-slate-700">{{ .Title }}</h2>
+  </hgroup>
+
+  <div class="flex flex-wrap gap-2">
+    {{ range .Data.Terms.Alphabetical }}
+    <div class="p-4 bg-indigo-100 rounded-lg">
+      <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count
+      }})
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
