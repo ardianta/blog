@@ -56,7 +56,7 @@ Bangkeeeeee!!!!
 Di sana yang benar seharusnya:
 
 ```js
-console.err("Error:", err);
+console.error("Error:", err);
 ```
 
 Bukan:
