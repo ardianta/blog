@@ -53,7 +53,7 @@ Bangkeeeeee!!!!
 
 ![Bangkeeeee](https://i.giphy.com/4qx6IRdg26uZ3MTtRn.webp)
 
-Di sana yang benar adalah:
+Di sana yang benar seharusnya:
 
 ```js
 console.err("Error:", err);
@@ -68,10 +68,11 @@ console.err("Error:", err);
 Anehnya, mengapa Nodejs meleawatkan ini. Mengapa sewaktu menjalankan servernya tidak menampilkan error, kalau itu sintaks yang salah.
 
 Ahh iya, aku lupa aktifin eslint dan Nodejs gak peduli dengan sintaks error seperti ini.
-Oh iya, project ini juga menggunakan babel, mungkin babel juga nggak ngecek sintaksnya saat build project dengan babel.
+Oh iya, project ini juga menggunakan babel, mungkin babel juga nggak ngecek sintaksnya saat proses build.
 
 Project ini adalah project warisan dari orang India.
 Kodenya berantakan, kalau ubah-ubah sesuastu biasanya akan menyebabkan error lainnya.
+Jadi mesti hati-hati.
 
 ![Git diff solved 502 error](/img/nginx-502-error/git-diff-caused-502-error.png)
 
