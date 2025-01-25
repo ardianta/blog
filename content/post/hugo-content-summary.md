@@ -46,7 +46,21 @@ Kalau dulu sih cuma menghasilkan plain text aja.
 
 Lalu gimana cara memperbaikinya?
 
-Cara saya memperbaikinya dengan menggunakan variabel `.Plain`.
+## Cara Pertama 
+
+Cara pertama bisa menggunakan fungsi `plaintify` pada `.Summary` jadi seperti ini:
+
+```
+<p class="text-slate-600 line-clamp-3 text-sm mb-2">
+  {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plaintify }}{{ end }}
+</p>
+```
+
+Fungsi `plaintify` akan mengubah hasil `.Summary` yang berupa HTML menjadi plain text.
+
+## Cara Kedua
+
+Cara kedua saya memperbaikinya dengan menggunakan variabel `.Plain`.
 Variabel ini akan menghasilkan plain text dari content secara full.
 Lalu menggunakan fungsi `strings.Truncate` untuk memotongnya.
 
@@ -64,6 +78,8 @@ Maka hasilnya:
 
 ![Hasil render .Plan](/img/hugo-content-summary/hasil-render-plain.png)
 
+## Cara Ketiga
+
 Cara lain, kita bisa tambahkan font-matter `summary` di semua post yang belum ada `summary`
 atauapun `description` nya.
 
@@ -74,5 +90,7 @@ Contohnya seperti ini:
 summary: "Berisi teks ringkasan tentang post atau konten"
 ---
 ```
+
+## Akhir Kata..
 
 Selamat mencoba!
