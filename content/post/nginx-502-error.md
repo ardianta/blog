@@ -22,7 +22,7 @@ User tidak bisa upload file ke backend dan dapat respon:
 
 Ini adalah respon error dari Nginx. Seharian saya debug konfigurasi Nginx,
 mengubah beberapa hal seperti ukuran buffer untuk proxy dan ukuran maksimal
-upload file yang dibolehkan oleh client. Tapi tetap tidak bisa. 
+upload file yang dibolehkan untuk di-upload olehclient. Tapi tetap tidak bisa. 
 Tetap saja respon servernya *502 Bad Gateway*.
 
 Di server, saya menjalankan service backend API di port `4000`. Ini adalah
