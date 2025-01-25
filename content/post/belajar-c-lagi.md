@@ -134,7 +134,7 @@ Ternyata ada yaa programmer yang ga mau pakai class. Dia cuma ngandelin namespac
 Saya panggil dia sepuh, karena skill coding C++ dan openGL-nya luar biasa jago.
 Dalam salah satu live stream-nya dia mengatakan: *"Don't use fucking class, I use namespace instead"*
 
-<!-- {{< youtube "" >}} -->
+
 
 Hahaha, tapi ini pilihan aja sih. Bebas mau pakai yang mana dan tergantung kasus yang dihadapi.
 Kalau bisa prosedural ya pakai aja prosedural, gak perlu dipaksakan OOP. Karena bahasa C++ kan multi paradigma.
