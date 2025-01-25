@@ -196,7 +196,7 @@ Jadi, berikut ini kode untuk shortcode instagram miliki saya:
 {{ $id := .Get 0 }}
 {{ $hideCaption := cond (eq (.Get 1) "hidecaption") "1" "0" }}
 
-{{ if not .Site.IsServer }}
+{{ if not hugo.IsServer }}
 {{ with getJSON "https://api.instagram.com/oembed/?url=https://www.instagram.com/p/" $id "/&hidecaption=" $hideCaption }}
     {{ .html | safeHTML }}
 {{ end }}

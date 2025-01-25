@@ -17,7 +17,7 @@
           </a>
         </h3>
         <p class="text-slate-600 line-clamp-3 text-sm mb-2">
-          {{ with .Description }}{{ . }}{{ else }}{{ .Plain | strings.Truncate 128 }}{{ end }}
+          {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify }}{{ end }}
         </p>
         <p class="text-sm text-slate-400">{{ .Lastmod.Format "02 Jan 2006" }} &middot; {{ .ReadingTime }} min read</p>
       </div>
