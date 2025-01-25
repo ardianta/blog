@@ -7,7 +7,8 @@ draft: false
 type: post
 
 tags:
-    - tag
+    - Problem Solved
+    - Git
 
 image: "/img/git-lfs/git-lfs.avif"
 description: "Di sebuah repository private, ada file besar berupa arsip rar. Ukurannya lebih dari 100MB. Ketika saya melakukan push ke Github, ini akan tertolak otomatis oleh Github."

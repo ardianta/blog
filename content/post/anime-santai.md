@@ -7,7 +7,7 @@ draft: true
 type: post
 
 tags:
-    - tag
+    - anime
 
 image: ""
 description: ""

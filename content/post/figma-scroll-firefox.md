@@ -7,7 +7,9 @@ draft: false
 type: post
 
 tags:
-    - tag
+    - figma
+    - firefox
+    - Problem Solved
 
 image: ""
 description: "Cara mempercepat Zoom in dan Zoom out Figma di Firefox"

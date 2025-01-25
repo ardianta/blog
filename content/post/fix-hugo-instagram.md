@@ -9,6 +9,7 @@ type: post
 tags:
     - Hugo
     - Instagram
+    - Problem Solved
 
 image: "/img/fix-hugo-instagram/error-embed-instagram.png"
 description: "Mengatasi Error karena Shortcode instagram tidak lagi bisa melakukan embed"

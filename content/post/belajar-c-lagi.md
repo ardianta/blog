@@ -7,7 +7,7 @@ draft: true
 type: post
 
 tags:
-    - tag
+    - C
 
 image: ""
 description: ""

@@ -8,6 +8,8 @@ type: post
 
 tags:
     - Nginx
+    - Javascaript
+    - Nodejs
     - Problem Solved
 
 image: "/img/nginx-502-error/git-diff-caused-502-error.png"

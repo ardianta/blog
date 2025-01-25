@@ -8,6 +8,7 @@ type: post
 
 tags:
     - Pascal
+    - Problem Solved
 
 image: ""
 description: "Saat compile program pascal yang menggunakan unit `graph`, ia tidak bisa dan dapat persan error seperti ini."

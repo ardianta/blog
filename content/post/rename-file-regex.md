@@ -7,7 +7,7 @@ draft: false
 type: post
 
 tags:
-    - tag
+    - Problem Solved
 
 image: ""
 description: "Cara rename banyak file dengan Regex di Linux"

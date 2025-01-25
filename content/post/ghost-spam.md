@@ -7,7 +7,7 @@ draft: false
 type: post
 
 tags:
-    - tag
+    - Problem Solved
 
 image: "/img/ga/filter.png"
 description: "Entah ini disengaja atau tidak, laporan page dari web rmco.id masuk ke google analytic petanikode yang membuat saya bingung."
