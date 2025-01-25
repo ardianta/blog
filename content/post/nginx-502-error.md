@@ -8,7 +8,7 @@ type: post
 
 tags:
     - Nginx
-    - Javascaript
+    - Javascript
     - Nodejs
     - Problem Solved
 
