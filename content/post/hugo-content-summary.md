@@ -7,7 +7,8 @@ draft: false
 type: post
 
 tags:
-    - tag
+    - Hugo
+    - Problem Solved
 
 image: "/img/hugo-content-summary/hugo-summary-return-html.png"
 description: "Sekarang Hugo akan menghasilkan kode HTML begitu kita pakai variabel `.Summary`.

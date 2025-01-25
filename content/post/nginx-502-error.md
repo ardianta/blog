@@ -7,7 +7,8 @@ draft: false
 type: post
 
 tags:
-    - tag
+    - Nginx
+    - Problem Solved
 
 image: "/img/nginx-502-error/git-diff-caused-502-error.png"
 description: "Error 502 di server Nginx, ternyata disebabkan oleh hal sepele."
