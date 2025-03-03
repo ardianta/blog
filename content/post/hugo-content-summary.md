@@ -49,15 +49,15 @@ Lalu gimana cara memperbaikinya?
 
 ## Cara Pertama 
 
-Cara pertama bisa menggunakan fungsi `plaintify` pada `.Summary` jadi seperti ini:
+Cara pertama bisa menggunakan fungsi `plainify` pada `.Summary` jadi seperti ini:
 
 ```
 <p class="text-slate-600 line-clamp-3 text-sm mb-2">
-  {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plaintify }}{{ end }}
+  {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify }}{{ end }}
 </p>
 ```
 
-Fungsi `plaintify` akan mengubah hasil `.Summary` yang berupa HTML menjadi plain text.
+Fungsi `plainify` akan mengubah hasil `.Summary` yang berupa HTML menjadi plain text.
 
 ## Cara Kedua
 
