@@ -60,7 +60,13 @@ menu:
       url: 'http://feeds.feedburner.com/ardianta'
       weight: 5
 
-
+privacy:
+  youTube:
+    disable: false
+    privacyEnhanced: false
+  instagram:
+    disable: false
+    simple: false
 
 markup:
   goldmark:
