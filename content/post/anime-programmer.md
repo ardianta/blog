@@ -11,7 +11,7 @@ tags:
     - Wibu
     - Anime
 
-image: "/img/anime-programmer/programmer-kaze-ga-tsuyoku-fuiteiru.avif"
+image: "/img/anime-programmer/nene-belajar-coding.avif"
 description: "Anime-anime yang pernah saya tonton dan di dalamnya ada karakter programmer-nya. Wajib ditonton oleh programmer!"
 ---
 
