@@ -1,5 +1,5 @@
 ---
-title: "Anime Bawang"
+title: "Anime Bawang yang Saya Tonton Sampai Menangis"
 slug: anime-bawang
 date: 2021-07-07T21:44:52+08:00
 draft: false

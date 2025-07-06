@@ -88,6 +88,6 @@ Terutama yang _Now Loading!!!!_. Kalau dengar ini, jadi teringat masa-masa kulia
 
 Cukup dulu! nanti saya tambahkan lagi ya..
 
-Baca juga: 
+atau baca juga: 
 
 - [Anime Bawang yang saya tonton sampai menangis](/post/anime-bawang/)
