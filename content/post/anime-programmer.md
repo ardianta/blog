@@ -82,7 +82,7 @@ saya juga tertarik belajar game development di saat itu.
 Selain itu, anime ini punya soundtrack yang bagus. Saya sering memutarnya dulu.
 Terutama yang _Now Loading!!!!_. Kalau dengar ini, jadi teringat masa-masa kuliah.
 
-{{< youtube id=tGslA4hjAQ8 start=11880 loading=lazy >}}
+{{< youtube id=tGslA4hjAQ8 start=192 loading=lazy >}}
 
 ## 3. Coming Soon!
 
