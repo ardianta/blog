@@ -87,3 +87,7 @@ Terutama yang _Now Loading!!!!_. Kalau dengar ini, jadi teringat masa-masa kulia
 ## 3. Coming Soon!
 
 Cukup dulu! nanti saya tambahkan lagi ya..
+
+Baca juga: 
+
+- [Anime Bawang yang saya tonton sampai menangis](/post/anime-bawang/)
