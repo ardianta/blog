@@ -349,9 +349,11 @@ kita sudah punya sistem filter untuk mengendalikan apa yang dipikirkan.
 
 Kurangi konsumsi konten sosmed, tata ulang pikiran dengan baca buku dan menggambar.
 
-![Wong saya suka kok](/img/ramadhan-2024/wong-saya-suka-kok.jpg)
+Kalau bahasa kekiniannya: "Diet informasi" atau JOMO = joy of missing out
 
-Oh, selain baca buku dan menggambar.. saya juga latihan seni berpedang iaijutsu atau iaido.
+Oh ya, selain baca buku dan menggambar.. 
+
+Saya juga latihan seni berpedang iaijutsu atau iaido.
 Untuk latih koordinasi tubuh dan pikiran.
 
 ![Latihan samurai](https://media1.tenor.com/m/f_2dLRsoamYAAAAd/rurouni-kenshin-martial-arts.gif)
