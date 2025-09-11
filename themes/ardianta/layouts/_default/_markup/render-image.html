@@ -1,0 +1,45 @@
+{{ $isRemote := strings.HasPrefix .Destination "http" }}
+{{ $file_ext := substr (path.Ext .Destination) 1 }}
+{{ $file_name := replaceRE `\.+.+` "" (path.Base .Destination) }}
+{{ $dir := path.Dir .Destination}}
+
+{{ if in (slice "webm" "mp4" ) $file_ext }}
+<!-- Render the video (gif) -->
+<video class="" autoplay muted loop playsinline poster="/img/placeholder.svg">
+    <source src="{{ .Destination | safeURL }}" type="video/{{ $file_ext }}" />
+</video>
+{{ else }}
+
+<!-- Render the image -->
+<figure class="not-prose mb-4">
+  <picture class="flex justify-center">
+    <!-- only make responsive for local image -->
+    {{ if and (not hugo.IsServer) (not $isRemote) }}
+      {{ if eq $file_ext "svg" }}
+      <source srcset="{{ .Destination }}" type="image/svg+xml" />
+      {{ end }}
+      
+      {{ if in (slice "jpg" "jpeg") $file_ext }}
+        <source srcset="{{ .Destination }}" type="image/jpeg" />
+      {{ else }}
+        <source srcset="{{ .Destination }}" type="image/{{ $file_ext }}" />
+      {{ end }}
+
+    {{ end }} <!-- /IsServer-->
+    
+    <img 
+      class='max-w-full h-auto'
+      src='{{ .Destination | safeURL }}'
+      alt="{{ .Text }}"
+      title="{{ with $.Title | safeHTML }}{{ . }}{{ end }}"
+      loading="lazy"
+      decoding="async"
+    />
+  </picture>
+  {{ with $.Title }}
+  <figcaption class="text-center text-sm mt-0 py-2">{{ . | markdownify | safeHTML }}</figcaption>
+  {{ end }}
+</figure>
+
+
+{{ end }}

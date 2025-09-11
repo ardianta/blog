@@ -475,7 +475,7 @@ orang-orang nggak puasa lagi secara bersamaan. Jadi, kalau mau puasa.. puasa sen
 Kesimpulannya, sejauh yang saya alami..
 
 Ramadhan tahun ini membawa dampak perubahan, terutama dalam diri saya. Baik secara lahir dan batin.
-Selanjutnya, tinggal mempertahankan supaya jadi *life style* dan [*servomechanism*](https://www.kompasiana.com/thearchitect/5faa972fd541df7cfb03e472/servomechanism).
+Selanjutnya, tinggal mempertahankan supaya jadi *life style* dan [*servomechanism*](https://sufimuda.net/2023/06/14/servomechanism-memahami-takdir-secara-ilmiah/).
 
 Tulisan ini sebagai pengingat saya untuk saya di masa depan. Jika nanti saya kembali lagi susah tidur,
 saya harus baca ulang lagi tulisan ini. Lalu menertawakan diri karena cara berpikirnya yang konyol dan [wibuuuu bau bawang](/post/anime-bawang/).

@@ -84,7 +84,27 @@ Terutama yang _Now Loading!!!!_. Kalau dengar ini, jadi teringat masa-masa kulia
 
 {{< youtube id=tGslA4hjAQ8 start=192 loading=lazy >}}
 
-## 3. Coming Soon!
+## 3. Kono Sekai wa Fukanzen Sugiru
+
+Airing: Summer 2024
+
+Sebenarnya di anime ini tidak ada tokoh programmernya,
+tapi ada kaitannya dengan pemgoraman.
+
+Setting sekai di anime ini seperti SAO. MC-nya berada di dalam dunia Game,
+lalu tidak bisa logout karena ada bug di game tersebut.
+
+Sebenarnya peran dia di sana sebagai game terster atau Quality Assurance (QA)
+kalau di dunia software development.
+
+Jika kamu adalah seorang QA, maka kamu akan menikmati anime ini.
+Karena bug yang ditemukan masuk akal hehe.
+
+## 4. Good Night World!
+
+Anime ini juga bergenere game. Ada programmer di game ini.
+
+## 5. Coming Soon!
 
 Cukup dulu! nanti saya tambahkan lagi ya..
 
