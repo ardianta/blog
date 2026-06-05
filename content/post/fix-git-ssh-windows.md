@@ -93,7 +93,8 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 ```
 
-Ini disebabkan karena command ssh yang dipakai saat proses clone dan push adalah ssh bawaan dari git bash.
+Ini disebabkan karena command ssh yang dipakai saat proses clone dan push adalah ssh bawaan dari git bash yang berada di `C:\Program Files\Git\usr\bin`.
+
 Sementara ssh-agent di git bash belum terkonfigurasi dengan benar. Karena itu error ini muncul.
 
 Cara memperbaikinya:
