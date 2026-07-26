@@ -58,4 +58,4 @@ Mantap :+1:
 Sekarang saya bisa tahu jumlah kata yang
 ditulis.
 
-{{< tweet user="ardiantapargo" id="1037985999752593408" >}}
+{{< x user="ardiantapargo" id="1037985999752593408" >}}

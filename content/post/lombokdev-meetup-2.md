@@ -21,7 +21,7 @@ Lombokdev.
 Beberapa teman yang sudah bekerja di kota besar bahkan rela 
 pulang beberapa hari ke Lombok untuk menghadiri acara ini.
 
-{{< tweet user="ardiantapargo" id="919410088430809088" >}}
+{{< x user="ardiantapargo" id="919410088430809088" >}}
 
 Materi yang disampaikan di acara ini cukup menarik dan beragam.
 Bisa di lihat di sini: [Lombokdev/Meetup002](https://github.com/LombokDev/Meetup002/blob/master/acara.md).
